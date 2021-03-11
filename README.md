@@ -1,2 +1,2 @@
-### About me
+# About me
 [My education](Education.md) <br>
