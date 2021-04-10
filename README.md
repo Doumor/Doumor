@@ -59,7 +59,7 @@
  <img src="https://img.shields.io/badge/-Kali Linux-333333?style=flat-square&logo=kali-linux">
  <img src="https://img.shields.io/badge/-Linux Mint-333333?style=flat-square&logo=linux-mint">
  <img src="https://img.shields.io/badge/-Tails-333333?style=flat-square&logo=tails">
- <img src="https://img.shields.io/badge/-Arch Linux-333333?style=flat-square&logo=arch linux">
+ <img src="https://img.shields.io/badge/-Arch Linux-333333?style=flat-square&logo=arch-linux">
  <img src="https://img.shields.io/badge/-FreeBSD-333333?style=flat-square&logo=freebsd">
  <img src="https://img.shields.io/badge/-OpenBSD-333333?style=flat-square&logo=openbsd">
 
