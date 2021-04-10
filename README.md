@@ -12,7 +12,7 @@
  <img src="https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker">
  <img src="https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git">
  <img src="https://img.shields.io/badge/-npm-333333?style=flat-square&logo=npm">
- <img src="https://img.shields.io/badge/-JWT-333333?style=flat-square&logo=json web tokens">
+ <img src="https://img.shields.io/badge/-JWT-333333?style=flat-square&logo=json-web-tokens">
  <img src="https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc">
  <img src="https://img.shields.io/badge/-IPFS-333333?style=flat-square&logo=ipfs">
 </p>
@@ -36,7 +36,7 @@
 <p align="center">
  <img src="https://img.shields.io/badge/-Node.js-333333?style=flat-square&logo=node.js">
  <img src="https://img.shields.io/badge/-Express-333333?style=flat-square&logo=express">
- <img src="https://img.shields.io/badge/-Cordova-333333?style=flat-square&logo=apache cordova">
+ <img src="https://img.shields.io/badge/-Cordova-333333?style=flat-square&logo=apache-cordova">
 </p>
 
 ## Operating systems
@@ -47,8 +47,8 @@
  <img src="https://img.shields.io/badge/-Ubuntu-333333?style=flat-square&logo=ubuntu">
  <img src="https://img.shields.io/badge/-Kubuntu-333333?style=flat-square&logo=kubuntu">
  <img src="https://img.shields.io/badge/-Lubuntu-333333?style=flat-square&logo=lubuntu">
- <img src="https://img.shields.io/badge/-Kali Linux-333333?style=flat-square&logo=kali linux">
- <img src="https://img.shields.io/badge/-Linux Mint-333333?style=flat-square&logo=linux mint">
+ <img src="https://img.shields.io/badge/-Kali Linux-333333?style=flat-square&logo=kali-linux">
+ <img src="https://img.shields.io/badge/-Linux Mint-333333?style=flat-square&logo=linux-mint">
  <img src="https://img.shields.io/badge/-Tails-333333?style=flat-square&logo=tails">
  <img src="https://img.shields.io/badge/-Arch Linux-333333?style=flat-square&logo=arch linux">
  <img src="https://img.shields.io/badge/-FreeBSD-333333?style=flat-square&logo=freebsd">
