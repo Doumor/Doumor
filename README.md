@@ -6,9 +6,9 @@
 
 <p align="center">
  <img src="https://img.shields.io/badge/-Atom-333333?style=flat-square&logo=atom">
- <img src="https://img.shields.io/badge/-VS Code-333333?style=flat-square&logo=visual studio code">
- <img src="https://img.shields.io/badge/-Android Studio-333333?style=flat-square&logo=android studio">
- <img src="https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux foundation">
+ <img src="https://img.shields.io/badge/-VS Code-333333?style=flat-square&logo=visual-studio-code">
+ <img src="https://img.shields.io/badge/-Android Studio-333333?style=flat-square&logo=android-studio">
+ <img src="https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux-foundation">
  <img src="https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker">
  <img src="https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git">
  <img src="https://img.shields.io/badge/-npm-333333?style=flat-square&logo=npm">
