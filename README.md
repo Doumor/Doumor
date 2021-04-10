@@ -8,19 +8,26 @@
  <img src="https://img.shields.io/badge/-Atom-333333?style=flat-square&logo=atom">
  <img src="https://img.shields.io/badge/-VS Code-333333?style=flat-square&logo=visual-studio-code">
  <img src="https://img.shields.io/badge/-Android Studio-333333?style=flat-square&logo=android-studio">
+
+ <img src="https://img.shields.io/badge/-Firefox-333333?style=flat-square&logo=firefox">
+ <img src="https://img.shields.io/badge/-Chrome-333333?style=flat-square&logo=google-chrome">
+ <img src="https://img.shields.io/badge/-Brave-333333?style=flat-square&logo=brave">
+
  <img src="https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux-foundation">
  <img src="https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker">
  <img src="https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git">
  <img src="https://img.shields.io/badge/-npm-333333?style=flat-square&logo=npm">
  <img src="https://img.shields.io/badge/-JWT-333333?style=flat-square&logo=json-web-tokens">
+ <img src="https://img.shields.io/badge/-Socket.io-333333?style=flat-square&logo=socket.io">
  <img src="https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc">
  <img src="https://img.shields.io/badge/-IPFS-333333?style=flat-square&logo=ipfs">
+
 </p>
 
 ## Languages
 <p align="center">
  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript">
- <img src="https://img.shields.io/badge/-Bash-333333?style=flat-square&logo=gnu bash">
+ <img src="https://img.shields.io/badge/-Bash-333333?style=flat-square&logo=gnu-bash">
  <img src="https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python">
  <img src="https://img.shields.io/badge/-Kotlin-333333?style=flat-square&logo=kotlin">
  <img src="https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=php">
@@ -37,6 +44,8 @@
  <img src="https://img.shields.io/badge/-Node.js-333333?style=flat-square&logo=node.js">
  <img src="https://img.shields.io/badge/-Express-333333?style=flat-square&logo=express">
  <img src="https://img.shields.io/badge/-Cordova-333333?style=flat-square&logo=apache-cordova">
+ <img src="https://img.shields.io/badge/-React Native-333333?style=flat-square&logo=react">
+ <img src="https://img.shields.io/badge/-Electron-333333?style=flat-square&logo=electron">
 </p>
 
 ## Operating systems
