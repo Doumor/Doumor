@@ -58,7 +58,7 @@
 
 <p align="center">
  <a href="https://vk.com/doumor"><img src="src/SN/vk.svg" width=50px></a>
- <a href="https://facebook.com/ddoumor"><img src="src/SN/facebook.svg" width=65px></a>
+ <a href="https://facebook.com/ddoumor"><img src="src/SN/facebook.svg" width=50px></a>
  <a href="https://instagram.com/doumorr"><img src="src/SN/instagram.svg" width=50px></a>
  <a href="https://twitter.com/?"><img src="src/SN/twitter.svg" width=50px></a>
 <a href="https://mstdn.social/@Doumor"><img src="src/SN/mastodon.svg" width=50px></a>
