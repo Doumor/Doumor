@@ -132,9 +132,9 @@
 </p>
 
 <p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=doumor&include_all_commits=true&count_private=true&show_icons=true&theme=algolia" alt="My GitHub Status">
+ 
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=doumor&show_icons=true&layout=compact&show_icons=true&theme=algolia" alt="My GitHub Status">
-
- <img src="https://github-readme-stats.vercel.app/api?username=doumor&count_private=true&show_icons=true&theme=algolia" alt="My GitHub Status">
 </p>
 
 ## Email
@@ -166,5 +166,5 @@
    `/ossssso+/:-   //   -:/+osssso+-                                                        
   `+sso+:-`        //       `.-/+oso:                                                       
  `++:.             //            `-/+/                                                      
- .`                /                `/                                                      
+ .`                /                `/                                                       
 ```
