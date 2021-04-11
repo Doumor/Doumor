@@ -46,6 +46,7 @@
  <a href="https://virtualbox.org/"><img src="https://img.shields.io/badge/-VirtualBox-333333?style=flat-square&logo=virtualbox" height="30em"></a>
  <a href="https://openstreetmap.org"><img src="https://img.shields.io/badge/-OpenStreetMap-333333?style=flat-square&logo=openstreetmap" height="30em"></a>
  <a href="https://leafletjs.com/"><img src="https://img.shields.io/badge/-Leaflet-333333?style=flat-square&logo=leaflet" height="30em"></a>
+ <a href="https://leafletjs.com/"><img src="https://img.shields.io/badge/-OpenLayers-333333?style=flat-square&logo=openlayers" height="30em"></a>
  <a href="https://mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-335533?style=flat-square&logo=mongodb" height="30em"></a>
  <a href="https://aerospike.com/"><img src="https://img.shields.io/badge/-Aerospike-333333?style=flat-square&logo=aerospike" height="30em"></a>
  <a href="https://redis.io/"><img src="https://img.shields.io/badge/-Redis-333333?style=flat-square&logo=redis" height="30em"></a>
@@ -60,7 +61,7 @@
  <a href="https://gnu.org/software/bash/"><img src="https://img.shields.io/badge/-Bash-333333?style=flat-square&logo=gnu-bash" height="30em"></a>
  <a href="https://rust-lang.org/"><img src="https://img.shields.io/badge/-Rust-335533?style=flat-square&logo=rust" height="30em"></a>
  <a href="https://python.org/"><img src="https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python" height="30em"></a>
- <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/-Kotlin-333333?style=flat-square&logo=kotlin" height="30em"></a>
+ <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/-Kotlin-335533?style=flat-square&logo=kotlin" height="30em"></a>
  <a href="https://www.php.net/"><img src="https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=php" height="30em"></a>
  <a href="https://json.org"><img src="https://img.shields.io/badge/-JSON-333333?style=flat-square&logo=json" height="30em"></a>
  <a href="https://w3.org/TR/html52/"><img src="https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=html5" height="30em"></a>
@@ -74,7 +75,8 @@
  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/-Express-335533?style=flat-square&logo=express" height="30em"></a>
  <a href="https://github.com/TypeStrong/ts-node"><img src="https://img.shields.io/badge/-TS Node-333333?style=flat-square&logo=ts-node" height="30em"></a>
  <a href="https://cordova.apache.org/"><img src="https://img.shields.io/badge/-Cordova-335533?style=flat-square&logo=apache-cordova" height="30em"></a>
- <a href="https://electronjs.org/"><img src="https://img.shields.io/badge/-Electron-333333?style=flat-square&logo=electron" height="30em"></a>
+ <a href="https://electronjs.org/"><img src="https://img.shields.io/badge/-Electron-335533?style=flat-square&logo=electron" height="30em"></a>
+ <a href="https://nwjs.io/"><img src="https://img.shields.io/badge/-NW.js-335533?style=flat-square&logo=nw" height="30em"></a>
  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React Native WebView-333333?style=flat-square&logo=react" height="30em"></a>
  <a href="https://expo.io/"><img src="https://img.shields.io/badge/-Expo-333333?style=flat-square&logo=expo" height="30em"></a>
 </p>
