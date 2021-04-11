@@ -131,6 +131,40 @@
  <img src="https://img.shields.io/badge/-Bitbucket-333333?style=flat-square&logo=bitbucket" height="30em">
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=doumor&show_icons=true&layout=compact&show_icons=true&theme=algolia" alt="My GitHub Status">
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=doumor&show_icons=true&layout=compact&show_icons=true&theme=algolia" alt="My GitHub Status">
 
-<img src="https://github-readme-stats.vercel.app/api?username=doumor&count_private=true&show_icons=true&theme=algolia" alt="My GitHub Status">
+ <img src="https://github-readme-stats.vercel.app/api?username=doumor&count_private=true&show_icons=true&theme=algolia" alt="My GitHub Status">
+</p>
+
+## Email
+<p align="center">
+ <a href="mailto:DanilkinDA7@obr.mos.ru"><img src="https://img.shields.io/badge/-Outlook-333333?style=flat-square&logo=microsoft-outlook" height="30em"></a>
+ <a href="mailto:"><img src="https://img.shields.io/badge/-ProtonMail-333333?style=flat-square&logo=protonmail" height="30em"></a>
+</p>
+
+## Working system
+
+```
+                   00                    Dpc@Doumor
+                   11                    ------------                                       
+                  ====                   OS: Manjaro Linux x86_64 + BlackArch repo          
+                  .//                    Kernel: last or stable                             
+                 `o//:                   Uptime: 6-12 hours per day                         
+                `+o//o:                  Packages: 2000+ pacman packages                    
+               `+oo//oo:                 Shell: zsh                                         
+               -+oo//oo+:                Resolution: 1920x1080                              
+             `/:-:+//ooo+:               DE: Plasma 5                                       
+            `/+++++//+++++:              WM: KWin                                           
+           `/++++++//++++++:             WM Theme: Gently-Blur                              
+          `/+++oooo//ooooooo/`           Theme: Gently [Plasma], Breeze-Gently [GTK2/3]     
+         ./ooosssso//osssssso+`          Icons: breeze-dark [Plasma], breeze-dark [GTK2/3]  
+        .oossssso-`//`/ossssss+`         Terminal: cool-retro-term or konsole on yakuake    
+       -osssssso.  //  :ssssssso.        CPU: AMD Ryzen 3 2200G (4) @ 3.500GHz              
+      :osssssss/   //   osssso+++.       GPU: NVIDIA GeForce GTX 1060 6GB                   
+     /ossssssss/   //   +ssssooo/-       Memory: 8gb                                        
+   `/ossssso+/:-   //   -:/+osssso+-                                                        
+  `+sso+:-`        //       `.-/+oso:                                                       
+ `++:.             //            `-/+/                                                      
+ .`                /                `/                                                      
+```
