@@ -91,6 +91,7 @@
  <a href="https://linuxmint.com/"><img src="https://img.shields.io/badge/-Linux Mint-333333?style=flat-square&logo=linux-mint" height="30em"></a>
  <a href="https://tails.boum.org/"><img src="https://img.shields.io/badge/-Tails-333333?style=flat-square&logo=tails" height="30em"></a>
  <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/-Arch Linux-333333?style=flat-square&logo=arch-linux" height="30em"></a>
+ <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/-Manjaro-335533?style=flat-square&logo=manjaro" height="30em"></a>
 </p>
 
 ### Mobile
@@ -142,7 +143,7 @@
   <p>Same reason as above.</p>
  </div>
  <div>
-  <a href="https://emberjs.com/"><img src="https://img.shields.io/badge/-A-883333?style=flat-square&logo=ember.js" height="30em"></a>
+  <a href="https://emberjs.com/"><img src="https://img.shields.io/badge/-Ember-883333?style=flat-square&logo=ember.js" height="30em"></a>
   <p>Same reason as above.</p>
  </div>
 </p>
