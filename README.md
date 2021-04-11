@@ -128,6 +128,8 @@
 <p align="left">
  <div>
   <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React and React Native-883333?style=flat-square&logo=react" height="30em"></a>
+ <a href="https://dart.dev"><img src="https://img.shields.io/badge/-Dart-883333?style=flat-square&logo=dart" height="30em"></a>
+ <a href="https://flutter.dev"><img src="https://img.shields.io/badge/-Flutter-883333?style=flat-square&logo=flutter" height="30em"></a>
   <p>Because awkward syntax, lack of unity, dependency hell.</p>
  </div>
  <div>
