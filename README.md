@@ -3,51 +3,62 @@
   *I have 4 certificates*
 
 ## Technologies
+### Description
+<p align="center">
+ *I know how to work with all of them and have worked/are working with them, unless told otherwise.*
+</p>
+
+<p align="center">
+ <img src="https://img.shields.io/badge/-Thing I love-335533?style=flat-square" height="30em">
+ <img src="https://img.shields.io/badge/-Common things-333333?style=flat-square" height="30em">
+ <img src="https://img.shields.io/badge/-Thing I don't love-663333?style=flat-square" height="30em">
+</p>
+
 ### IDEs
 <p align="center">
- <a href="https://atom.io"><img src="https://img.shields.io/badge/-Atom-333333?style=flat-square&logo=atom" height="30em"></a>
+ <a href="https://atom.io"><img src="https://img.shields.io/badge/-Atom-335533?style=flat-square&logo=atom" height="30em"></a>
  <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/-VS Code-333333?style=flat-square&logo=visual-studio-code" height="30em"></a>
  <a href="https://developer.android.google.cn"><img src="https://img.shields.io/badge/-Android Studio-333333?style=flat-square&logo=android-studio" height="30em"></a>
 </p>
 
 ### Browsers
 <p align="center">
- <a href="https://mozilla.org/ru/firefox/"><img src="https://img.shields.io/badge/-Firefox-333333?style=flat-square&logo=firefox-browser" height="30em"></a>
+ <a href="https://mozilla.org/ru/firefox/"><img src="https://img.shields.io/badge/-Firefox-335533?style=flat-square&logo=firefox-browser" height="30em"></a>
  <a href="https://torproject.org/"><img src="https://img.shields.io/badge/-Tor Browser-333333?style=flat-square&logo=tor-browser" height="30em"></a>
  <a href="https://google.ru/chrome/"><img src="https://img.shields.io/badge/-Chrome-333333?style=flat-square&logo=google-chrome" height="30em"></a>
- <a href="https://brave.com/"><img src="https://img.shields.io/badge/-Brave-333333?style=flat-square&logo=brave" height="30em"></a>
+ <a href="https://brave.com/"><img src="https://img.shields.io/badge/-Brave-335533?style=flat-square&logo=brave" height="30em"></a>
  <a href="https://opera.com"><img src="https://img.shields.io/badge/-Opera-333333?style=flat-square&logo=opera" height="30em"></a>
 </p>
 
 ### In production
 <p align="center">
- <a href="https://kernel.org"><img src="https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux" height="30em"></a>
- <a href="https://konsole.kde.org/"><img src="https://img.shields.io/badge/-Terminal-333333?style=flat-square&logo=windows-terminal" height="30em"></a>
- <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git" height="30em"></a>
- <a href="https://npmjs.com/"><img src="https://img.shields.io/badge/-npm-333333?style=flat-square&logo=npm" height="30em"></a>
+ <a href="https://kernel.org"><img src="https://img.shields.io/badge/-Linux-335533?style=flat-square&logo=linux" height="30em"></a>
+ <a href="https://konsole.kde.org/"><img src="https://img.shields.io/badge/-Terminal-335533?style=flat-square&logo=windows-terminal" height="30em"></a>
+ <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-335533?style=flat-square&logo=git" height="30em"></a>
+ <a href="https://npmjs.com/"><img src="https://img.shields.io/badge/-npm-335533?style=flat-square&logo=npm" height="30em"></a>
  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker" height="30em"></a>
- <a href="https://jwt.io/"><img src="https://img.shields.io/badge/-JWT-333333?style=flat-square&logo=json-web-tokens" height="30em"></a>
- <a href="https://socket.io/"><img src="https://img.shields.io/badge/-Socket.io-333333?style=flat-square&logo=socket.io" height="30em"></a>
+ <a href="https://jwt.io/"><img src="https://img.shields.io/badge/-JWT-335533?style=flat-square&logo=json-web-tokens" height="30em"></a>
+ <a href="https://socket.io/"><img src="https://img.shields.io/badge/-Socket.io-335533?style=flat-square&logo=socket.io" height="30em"></a>
  <a href="https://webrtc.org/"><img src="https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc" height="30em"></a>
- <a href="https://ipfs.io/"><img src="https://img.shields.io/badge/-IPFS-333333?style=flat-square&logo=ipfs" height="30em"></a>
+ <a href="https://ipfs.io/"><img src="https://img.shields.io/badge/-IPFS-335533?style=flat-square&logo=ipfs" height="30em"></a>
  <a href="https://letsencrypt.org/"><img src="https://img.shields.io/badge/-Let's Encrypt-333333?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBzdHlsZT0ic2Nyb2xsLWJlaGF2aW9yOiBhdXRvICFpbXBvcnRhbnQ7Ij48dGl0bGU+TGV0J3MgRW5jcnlwdCBpY29uPC90aXRsZT48cGF0aCBkPSJNMTguMTk3IDI0SDUuODA0YS45NjUuOTY1IDAgMCAxLS45NjItLjk2MlYxMy44N2MwLS41MjkuNDMzLS45NjIuOTYyLS45NjJoMS4xNjR2LTEuNDgyYzAtMi43NzUgMi4yNTgtNS4wMzIgNS4wMzItNS4wMzJzNS4wMzIgMi4yNTggNS4wMzIgNS4wMzJ2MS40ODJoMS4xNjRjLjUyOSAwIC45NjIuNDMzLjk2Mi45NjJ2OS4xNjhhLjk2NS45NjUgMCAwIDEtLjk2Mi45NjJ6bS01LjU2OS01LjA3MkExLjI3NCAxLjI3NCAwIDAgMCAxMiAxNi41NDRhMS4yNzUgMS4yNzUgMCAwIDAtLjYyOCAyLjM4NHYxLjI0MmEuNjI4LjYyOCAwIDEgMCAxLjI1NiAwdi0xLjI0MnptLTIuNzc0LTYuMDJoNC4yOTN2LTEuNDgyYzAtMS4xODMtLjk2My0yLjE0Ni0yLjE0Ni0yLjE0NnMtMi4xNDYuOTYzLTIuMTQ2IDIuMTQ2djEuNDgyek00LjU0NyAxMS41NDJoLTIuOTlhLjg3OC44NzggMCAxIDEgMC0xLjc1NmgyLjk5YS44NzguODc4IDAgMSAxIDAgMS43NTZ6TTYuNjU0IDYuODM4YS44Ny44NyAwIDAgMS0uNTU3LS4yTDMuNzMyIDQuNjkzYS44NzguODc4IDAgMSAxIDEuMTE2LTEuMzU3bDIuMzY1IDEuOTQ1YS44NzguODc4IDAgMCAxLS41NTkgMS41NTZ6TTEyIDQuNzdhLjg3OC44NzggMCAwIDEtLjg3OC0uODc4Vi44NzhhLjg3OC44NzggMCAxIDEgMS43NTYgMHYzLjAxNEEuODc4Ljg3OCAwIDAgMSAxMiA0Ljc3ek0xNy4zNDYgNi44MzhhLjg3Ny44NzcgMCAwIDEtLjU1OS0xLjU1NmwyLjM2NS0xLjk0NWEuODc4Ljg3OCAwIDAgMSAxLjExNiAxLjM1N2wtMi4zNjUgMS45NDVhLjg3Ni44NzYgMCAwIDEtLjU1Ny4yek0yMi40NDMgMTEuNTQyaC0zLjAxOWEuODc4Ljg3OCAwIDEgMSAwLTEuNzU2aDMuMDE5YS44NzguODc4IDAgMSAxIDAgMS43NTZ6Ii8+PC9zdmc+" height="30em"></a>
- <a href="https://webassembly.org/"><img src="https://img.shields.io/badge/-WASM-333333?style=flat-square&logo=webassembly" height="30em"></a>
+ <a href="https://webassembly.org/"><img src="https://img.shields.io/badge/-WASM-335533?style=flat-square&logo=webassembly" height="30em"></a>
  <a href="https://virtualbox.org/"><img src="https://img.shields.io/badge/-VirtualBox-333333?style=flat-square&logo=virtualbox" height="30em"></a>
  <a href="https://openstreetmap.org"><img src="https://img.shields.io/badge/-OpenStreetMap-333333?style=flat-square&logo=openstreetmap" height="30em"></a>
  <a href="https://leafletjs.com/"><img src="https://img.shields.io/badge/-Leaflet-333333?style=flat-square&logo=leaflet" height="30em"></a>
- <a href="https://mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb" height="30em"></a>
+ <a href="https://mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-335533?style=flat-square&logo=mongodb" height="30em"></a>
  <a href="https://aerospike.com/"><img src="https://img.shields.io/badge/-Aerospike-333333?style=flat-square&logo=aerospike" height="30em"></a>
  <a href="https://redis.io/"><img src="https://img.shields.io/badge/-Redis-333333?style=flat-square&logo=redis" height="30em"></a>
- <a href="https://mysql.com/"><img src="https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=mysql" height="30em"></a>
- <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/-MariaDB-333333?style=flat-square&logo=mariadb" height="30em"></a>
+ <a href="https://mysql.com/"><img src="https://img.shields.io/badge/-MySQL-663333?style=flat-square&logo=mysql" height="30em"></a>
+ <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/-MariaDB-663333?style=flat-square&logo=mariadb" height="30em"></a>
 </p>
 
 ## Languages
 <p align="center">
- <a href="https://javascript.com/"><img src="https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript" height="30em"></a>
+ <a href="https://javascript.com/"><img src="https://img.shields.io/badge/-JavaScript-335533?style=flat-square&logo=javascript" height="30em"></a>
  <a href="https://typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescript" height="30em"></a>
  <a href="https://gnu.org/software/bash/"><img src="https://img.shields.io/badge/-Bash-333333?style=flat-square&logo=gnu-bash" height="30em"></a>
- <a href="https://rust-lang.org/"><img src="https://img.shields.io/badge/-Rust-333333?style=flat-square&logo=rust" height="30em"></a>
+ <a href="https://rust-lang.org/"><img src="https://img.shields.io/badge/-Rust-335533?style=flat-square&logo=rust" height="30em"></a>
  <a href="https://python.org/"><img src="https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python" height="30em"></a>
  <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/-Kotlin-333333?style=flat-square&logo=kotlin" height="30em"></a>
  <a href="https://www.php.net/"><img src="https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=php" height="30em"></a>
@@ -59,12 +70,12 @@
 ## Frameworks
 
 <p align="center">
- <a href="https://nodejs.org"><img src="https://img.shields.io/badge/-Node.js-333333?style=flat-square&logo=node.js" height="30em"></a>
- <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/-Express-333333?style=flat-square&logo=express" height="30em"></a>
+ <a href="https://nodejs.org"><img src="https://img.shields.io/badge/-Node.js-335533?style=flat-square&logo=node.js" height="30em"></a>
+ <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/-Express-335533?style=flat-square&logo=express" height="30em"></a>
  <a href="https://github.com/TypeStrong/ts-node"><img src="https://img.shields.io/badge/-TS Node-333333?style=flat-square&logo=ts-node" height="30em"></a>
- <a href="https://cordova.apache.org/"><img src="https://img.shields.io/badge/-Cordova-333333?style=flat-square&logo=apache-cordova" height="30em"></a>
+ <a href="https://cordova.apache.org/"><img src="https://img.shields.io/badge/-Cordova-335533?style=flat-square&logo=apache-cordova" height="30em"></a>
  <a href="https://electronjs.org/"><img src="https://img.shields.io/badge/-Electron-333333?style=flat-square&logo=electron" height="30em"></a>
- <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React Native-333333?style=flat-square&logo=react" height="30em"></a>
+ <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React Native WebView-333333?style=flat-square&logo=react" height="30em"></a>
  <a href="https://expo.io/"><img src="https://img.shields.io/badge/-Expo-333333?style=flat-square&logo=expo" height="30em"></a>
 </p>
 
@@ -74,7 +85,7 @@
  <a href="https://apple.com/"><img src="https://img.shields.io/badge/-Apple-333333?style=flat-square&logo=apple" height="30em"></a>
  <a href="https://apple.com/macos/"><img src="https://img.shields.io/badge/-MacOS-333333?style=flat-square&logo=macos" height="30em"></a>
  <a href="https://microsoft.com/windows/"><img src="https://img.shields.io/badge/-Windows-333333?style=flat-square&logo=windows" height="30em"></a>
- <a href="https://kubuntu.org/"><img src="https://img.shields.io/badge/-Kubuntu-333333?style=flat-square&logo=kubuntu" height="30em"></a>
+ <a href="https://kubuntu.org/"><img src="https://img.shields.io/badge/-Kubuntu-335533?style=flat-square&logo=kubuntu" height="30em"></a>
  <a href="https://lubuntu.me/"><img src="https://img.shields.io/badge/-Lubuntu-333333?style=flat-square&logo=lubuntu" height="30em"></a>
  <a href="https://kali.org/"><img src="https://img.shields.io/badge/-Kali Linux-333333?style=flat-square&logo=kali-linux" height="30em"></a>
  <a href="https://linuxmint.com/"><img src="https://img.shields.io/badge/-Linux Mint-333333?style=flat-square&logo=linux-mint" height="30em"></a>
@@ -84,8 +95,8 @@
 
 ### Mobile
 <p align="center">
- <a href="https://android.com/"><img src="https://img.shields.io/badge/-Android-333333?style=flat-square&logo=android" height="30em"></a>
- <a href="https://lineageos.org/"><img src="https://img.shields.io/badge/-LineageOS-333333?style=flat-square&logo=lineageos" height="30em"></a>
+ <a href="https://android.com/"><img src="https://img.shields.io/badge/-Android-335533?style=flat-square&logo=android" height="30em"></a>
+ <a href="https://lineageos.org/"><img src="https://img.shields.io/badge/-LineageOS-335533?style=flat-square&logo=lineageos" height="30em"></a>
  <a href="https://apple.com/ios"><img src="https://img.shields.io/badge/-iOS-333333?style=flat-square&logo=ios" height="30em"></a>
 </p>
 
@@ -99,18 +110,43 @@
 
 ### Production
 <p align="center">
- <a href="https://debian.org/"><img src="https://img.shields.io/badge/-Debian-333333?style=flat-square&logo=debian" height="30em"></a>
- <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/-Ubuntu-333333?style=flat-square&logo=ubuntu" height="30em"></a>
+ <a href="https://debian.org/"><img src="https://img.shields.io/badge/-Debian-335533?style=flat-square&logo=debian" height="30em"></a>
+ <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/-Ubuntu-335533?style=flat-square&logo=ubuntu" height="30em"></a>
  <a href="https://freebsd.org/"><img src="https://img.shields.io/badge/-FreeBSD-333333?style=flat-square&logo=freebsd" height="30em"></a>
  <a href="https://openbsd.org/"><img src="https://img.shields.io/badge/-OpenBSD-333333?style=flat-square&logo=openbsd" height="30em"></a>
 </p>
 
 ### DEs
 <p align="center">
- <a href="https://kde.org/"><img src="https://img.shields.io/badge/-KDE-333333?style=flat-square&logo=kde" height="30em"></a>
- <a href="https://gnome.org/"><img src="https://img.shields.io/badge/-Gnome-333333?style=flat-square&logo=gnome" height="30em"></a>
+ <a href="https://kde.org/"><img src="https://img.shields.io/badge/-KDE-335533?style=flat-square&logo=kde" height="30em"></a>
+ <a href="https://gnome.org/"><img src="https://img.shields.io/badge/-Gnome-335533?style=flat-square&logo=gnome" height="30em"></a>
  <a href="https://xfce.org/"><img src="https://img.shields.io/badge/-XFCE-333333?style=flat-square&logo=xfce" height="30em"></a>
 </p>
+
+### A list of things I don't know and don't want to know
+<p align="left">
+ <div>
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React and React Native-883333?style=flat-square&logo=react" height="30em"></a>
+  <p>Because awkward syntax, lack of unity, dependency hell.</p>
+ </div>
+ <div>
+  <a href="https://angularjs.org/"><img src="https://img.shields.io/badge/-Angular-883333?style=flat-square&logo=angular" height="30em"></a>
+  <p>Because why do I need Angular when I have Cordova? I can create cross-platform applications with pure browser-based JS.</p>
+ </div>
+ <div>
+  <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/-Vuejs-883333?style=flat-square&logo=vue.js" height="30em"></a>
+  <p>Because it's an extra layer.</p>
+ </div>
+ <div>
+  <a href="https://jquery.com/"><img src="https://img.shields.io/badge/-JQuery-883333?style=flat-square&logo=jquery" height="30em"></a>
+  <p>Same reason as above.</p>
+ </div>
+ <div>
+  <a href="https://emberjs.com/"><img src="https://img.shields.io/badge/-A-883333?style=flat-square&logo=ember.js" height="30em"></a>
+  <p>Same reason as above.</p>
+ </div>
+</p>
+
 
 ## Social Networks
 
