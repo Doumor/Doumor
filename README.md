@@ -110,10 +110,18 @@
  <img src="https://img.shields.io/badge/-OpenBSD-333333?style=flat-square&logo=openbsd" height="30em">
 </p>
 
+### DEs
+<p align="center">
+ <img src="https://img.shields.io/badge/-KDE-333333?style=flat-square&logo=kde" height="30em">
+ <img src="https://img.shields.io/badge/-Gnome-333333?style=flat-square&logo=gnome" height="30em">
+ <img src="https://img.shields.io/badge/-XFCE-333333?style=flat-square&logo=xfce" height="30em">
+
+</p>
+
 ## Social Networks
 
 <p align="center">
- <img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=linkedin"height="30em">
+ <img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=linkedin" height="30em">
  <a href="https://vk.com/doumor"><img src="https://img.shields.io/badge/-VK-333333?style=flat-square&logo=vk" height="30em"></a>
  <a href="https://facebook.com/ddoumor"><img src="https://img.shields.io/badge/-Facebook-333333?style=flat-square&logo=facebook" height="30em"></a>
  <a href="https://instagram.com/doumorr"><img src="https://img.shields.io/badge/-Instagram-333333?style=flat-square&logo=instagram" height="30em"></a>
