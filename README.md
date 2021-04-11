@@ -51,7 +51,6 @@
  <a href="https://python.org/"><img src="https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python" height="30em"></a>
  <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/-Kotlin-333333?style=flat-square&logo=kotlin" height="30em"></a>
  <a href="https://www.php.net/"><img src="https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=php" height="30em"></a>
-
  <a href="https://json.org"><img src="https://img.shields.io/badge/-JSON-333333?style=flat-square&logo=json" height="30em"></a>
  <a href="https://w3.org/TR/html52/"><img src="https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=html5" height="30em"></a>
  <a href="https://w3.org/TR/CSS/"><img src="https://img.shields.io/badge/-CSS3-333333?style=flat-square&logo=css3" height="30em"></a>
@@ -74,9 +73,7 @@
 <p align="center">
  <a href="https://apple.com/"><img src="https://img.shields.io/badge/-Apple-333333?style=flat-square&logo=apple" height="30em"></a>
  <a href="https://apple.com/macos/"><img src="https://img.shields.io/badge/-MacOS-333333?style=flat-square&logo=macos" height="30em"></a>
- 
  <a href="https://microsoft.com/windows/"><img src="https://img.shields.io/badge/-Windows-333333?style=flat-square&logo=windows" height="30em"></a>
- 
  <a href="https://kubuntu.org/"><img src="https://img.shields.io/badge/-Kubuntu-333333?style=flat-square&logo=kubuntu" height="30em"></a>
  <a href="https://lubuntu.me/"><img src="https://img.shields.io/badge/-Lubuntu-333333?style=flat-square&logo=lubuntu" height="30em"></a>
  <a href="https://kali.org/"><img src="https://img.shields.io/badge/-Kali Linux-333333?style=flat-square&logo=kali-linux" height="30em"></a>
@@ -96,7 +93,6 @@
 <p align="center">
  <a href="https://play.google.com"><img src="https://img.shields.io/badge/-Google Play-333333?style=flat-square&logo=google-play" height="30em"></a>
  <a href="https://apple.com/app-store/"><img src="https://img.shields.io/badge/-App Store-333333?style=flat-square&logo=app-store" height="30em"></a>
- 
  <a href="https://flathub.org"><img src="https://img.shields.io/badge/-Flathub-333333?style=flat-square&logo=flathub" height="30em"></a>
  <a href="https://snapcraft.io/"><img src="https://img.shields.io/badge/-Snapcraft-333333?style=flat-square&logo=snapcraft" height="30em"></a>
 </p>
@@ -105,7 +101,6 @@
 <p align="center">
  <a href="https://debian.org/"><img src="https://img.shields.io/badge/-Debian-333333?style=flat-square&logo=debian" height="30em"></a>
  <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/-Ubuntu-333333?style=flat-square&logo=ubuntu" height="30em"></a>
-
  <a href="https://freebsd.org/"><img src="https://img.shields.io/badge/-FreeBSD-333333?style=flat-square&logo=freebsd" height="30em"></a>
  <a href="https://openbsd.org/"><img src="https://img.shields.io/badge/-OpenBSD-333333?style=flat-square&logo=openbsd" height="30em"></a>
 </p>
@@ -115,7 +110,6 @@
  <a href="https://kde.org/"><img src="https://img.shields.io/badge/-KDE-333333?style=flat-square&logo=kde" height="30em"></a>
  <a href="https://gnome.org/"><img src="https://img.shields.io/badge/-Gnome-333333?style=flat-square&logo=gnome" height="30em"></a>
  <a href="https://xfce.org/"><img src="https://img.shields.io/badge/-XFCE-333333?style=flat-square&logo=xfce" height="30em"></a>
-
 </p>
 
 ## Social Networks
