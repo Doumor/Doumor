@@ -143,7 +143,7 @@
  <a href="https://xfce.org/"><img alt="XFCE" src="https://img.shields.io/badge/-XFCE-222222?style=flat-square&logo=xfce" height="30em"></a>
 </p>
 
-### A list of things I don't know and don't want to know
+## A list of things I don't know and don't want to know
 <p align="left">
  <div>
   <a href="https://reactjs.org/"><img alt="React and React Native" src="https://img.shields.io/badge/-React and React Native-882222?style=flat-square&logo=react" height="30em"></a>
