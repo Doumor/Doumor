@@ -131,8 +131,8 @@
 ### A list of things I don't know and don't want to know
 <p align="left">
  <div>
-  <a href="https://reactjs.org/"><img alt="React and React Native" src="https://img.shields.io/badge/-React and React Native-883333?style=flat-square&logo=react" height="30em"></a>
- <a href="https://dart.dev"><img alt="Dart" src="https://img.shields.io/badge/-Dart-88222222?style=flat-square&logo=dart" height="30em"></a>
+  <a href="https://reactjs.org/"><img alt="React and React Native" src="https://img.shields.io/badge/-React and React Native-882222?style=flat-square&logo=react" height="30em"></a>
+ <a href="https://dart.dev"><img alt="Dart" src="https://img.shields.io/badge/-Dart-882222?style=flat-square&logo=dart" height="30em"></a>
  <a href="https://flutter.dev"><img alt="Flutter" src="https://img.shields.io/badge/-Flutter-882222?style=flat-square&logo=flutter" height="30em"></a>
   <p>Because awkward syntax, lack of unity, dependency hell.</p>
  </div>
