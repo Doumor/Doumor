@@ -202,7 +202,7 @@
                    11                    ------------                                       
                   ====                   OS: Manjaro Linux x86_64 + BlackArch repo          
                   .//                    Kernel: last or stable                             
-                 `o//:                   Uptime: 6-12 hours per day                         
+                 `o//:                   Uptime: 8-14 hours per day                         
                 `+o//o:                  Packages: 2000+ pacman packages                    
                `+oo//oo:                 Shell: zsh                                         
                -+oo//oo+:                Resolution: 1920x1080                              
