@@ -30,6 +30,7 @@
  <a href="https://brave.com/"><img alt="Best chromium fork" src="https://img.shields.io/badge/-Brave-225522?style=flat-square&logo=brave" height="30em"></a>
  <a href="https://opera.com"><img alt="Just another chromium fork" src="https://img.shields.io/badge/-Opera-222222?style=flat-square&logo=opera" height="30em"></a>
  <a href="https://getyabrowser.com"><img alt="Full of crap browser" src="https://img.shields.io/badge/-Yandex-662222?style=flat-square&logo=yandex" height="30em"></a>
+ <a href="https://browser.ru/"><img alt="Browser mail.ru" src="https://img.shields.io/badge/-Atom-662222?style=flat-square&logo=mail.ru" height="30em"></a>
 </p>
 
 ### In production
@@ -39,13 +40,16 @@
  <a href="https://git-scm.com/"><img alt="git" src="https://img.shields.io/badge/-Git-225522?style=flat-square&logo=git" height="30em"></a>
  <a href="https://npmjs.com/"><img alt="npm" src="https://img.shields.io/badge/-npm-225522?style=flat-square&logo=npm" height="30em"></a>
  <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/-Docker-222222?style=flat-square&logo=docker" height="30em"></a>
+ <a href="https://en.wikipedia.org/wiki/OS-level_virtualization"><img alt="chroot, OpenVZ, LXC, KVM" src="https://img.shields.io/badge/-chroot, OpenVZ, LXC, KVM-222222?style=flat-square&logo=linux&logoColor=white" height="30em"></a>
  <a href="https://jwt.io/"><img alt="jwt" src="https://img.shields.io/badge/-JWT-225522?style=flat-square&logo=json-web-tokens" height="30em"></a>
  <a href="https://socket.io/"><img alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-225522?style=flat-square&logo=socket.io" height="30em"></a>
  <a href="https://webrtc.org/"><img alt="WebRTC" src="https://img.shields.io/badge/-WebRTC-222222?style=flat-square&logo=webrtc" height="30em"></a>
  <a href="https://ipfs.io/"><img alt="IPFS" src="https://img.shields.io/badge/-IPFS-225522?style=flat-square&logo=ipfs" height="30em"></a>
  <a href="https://letsencrypt.org/"><img src="https://img.shields.io/badge/-Let's Encrypt-225522?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBzdHlsZT0ic2Nyb2xsLWJlaGF2aW9yOiBhdXRvICFpbXBvcnRhbnQ7Ij48dGl0bGU+TGV0J3MgRW5jcnlwdCBpY29uPC90aXRsZT48cGF0aCBzdHlsZT0iZmlsbDojRkZGRkZGOyIgZD0iTTE4LjE5NyAyNEg1LjgwNGEuOTY1Ljk2NSAwIDAgMS0uOTYyLS45NjJWMTMuODdjMC0uNTI5LjQzMy0uOTYyLjk2Mi0uOTYyaDEuMTY0di0xLjQ4MmMwLTIuNzc1IDIuMjU4LTUuMDMyIDUuMDMyLTUuMDMyczUuMDMyIDIuMjU4IDUuMDMyIDUuMDMydjEuNDgyaDEuMTY0Yy41MjkgMCAuOTYyLjQzMy45NjIuOTYydjkuMTY4YS45NjUuOTY1IDAgMCAxLS45NjIuOTYyem0tNS41NjktNS4wNzJBMS4yNzQgMS4yNzQgMCAwIDAgMTIgMTYuNTQ0YTEuMjc1IDEuMjc1IDAgMCAwLS42MjggMi4zODR2MS4yNDJhLjYyOC42MjggMCAxIDAgMS4yNTYgMHYtMS4yNDJ6bS0yLjc3NC02LjAyaDQuMjkzdi0xLjQ4MmMwLTEuMTgzLS45NjMtMi4xNDYtMi4xNDYtMi4xNDZzLTIuMTQ2Ljk2My0yLjE0NiAyLjE0NnYxLjQ4MnpNNC41NDcgMTEuNTQyaC0yLjk5YS44NzguODc4IDAgMSAxIDAtMS43NTZoMi45OWEuODc4Ljg3OCAwIDEgMSAwIDEuNzU2ek02LjY1NCA2LjgzOGEuODcuODcgMCAwIDEtLjU1Ny0uMkwzLjczMiA0LjY5M2EuODc4Ljg3OCAwIDEgMSAxLjExNi0xLjM1N2wyLjM2NSAxLjk0NWEuODc4Ljg3OCAwIDAgMS0uNTU5IDEuNTU2ek0xMiA0Ljc3YS44NzguODc4IDAgMCAxLS44NzgtLjg3OFYuODc4YS44NzguODc4IDAgMSAxIDEuNzU2IDB2My4wMTRBLjg3OC44NzggMCAwIDEgMTIgNC43N3pNMTcuMzQ2IDYuODM4YS44NzcuODc3IDAgMCAxLS41NTktMS41NTZsMi4zNjUtMS45NDVhLjg3OC44NzggMCAwIDEgMS4xMTYgMS4zNTdsLTIuMzY1IDEuOTQ1YS44NzYuODc2IDAgMCAxLS41NTcuMnpNMjIuNDQzIDExLjU0MmgtMy4wMTlhLjg3OC44NzggMCAxIDEgMC0xLjc1NmgzLjAxOWEuODc4Ljg3OCAwIDEgMSAwIDEuNzU2eiIvPjwvc3ZnPg==" height="30em"></a>
  <a href="https://webassembly.org/"><img alt="wasm" src="https://img.shields.io/badge/-WASM-225522?style=flat-square&logo=webassembly" height="30em"></a>
+ <a href="https://wiki.gnome.org/Apps/Boxes"><img alt="Gnome Boxes" src="https://img.shields.io/badge/-Gnome Boxes-225522?style=flat-square&logo=gnome" height="30em"></a>
  <a href="https://virtualbox.org/"><img alt="VirtualBox" src="https://img.shields.io/badge/-VirtualBox-222222?style=flat-square&logo=virtualbox" height="30em"></a>
+ <a href="https://vmware.com/"><img alt="VMware" src="https://img.shields.io/badge/-VMware-222222?style=flat-square&logo=vmware" height="30em"></a>
  <a href="https://openstreetmap.org"><img alt="Open Street Map" src="https://img.shields.io/badge/-OpenStreetMap-222222?style=flat-square&logo=openstreetmap" height="30em"></a>
  <a href="https://leafletjs.com/"><img alt="Leaflet" src="https://img.shields.io/badge/-Leaflet-222222?style=flat-square&logo=leaflet" height="30em"></a>
  <a href="https://leafletjs.com/"><img alt="OpenLayers" src="https://img.shields.io/badge/-OpenLayers-222222?style=flat-square&logo=openlayers" height="30em"></a>
@@ -86,11 +90,12 @@
 ## Operating systems
 ### Desktop
 <p align="center">
+ <a href="https://microsoft.com/windows/"><img alt="" src="https://img.shields.io/badge/-Windows-222222?style=flat-square&logo=windows" height="30em"></a>
  <a href="https://apple.com/"><img alt="Apple" src="https://img.shields.io/badge/-Apple-222222?style=flat-square&logo=apple" height="30em"></a>
  <a href="https://apple.com/macos/"><img alt="Windows" src="https://img.shields.io/badge/-MacOS-222222?style=flat-square&logo=macos" height="30em"></a>
- <a href="https://microsoft.com/windows/"><img alt="" src="https://img.shields.io/badge/-Windows-222222?style=flat-square&logo=windows" height="30em"></a>
  <a href="https://kubuntu.org/"><img alt="Kubuntu" src="https://img.shields.io/badge/-Kubuntu-225522?style=flat-square&logo=kubuntu" height="30em"></a>
  <a href="https://lubuntu.me/"><img alt="Lubuntu" src="https://img.shields.io/badge/-Lubuntu-222222?style=flat-square&logo=lubuntu" height="30em"></a>
+ <a href="https://xubuntu.org/"><img alt="Xubuntu" src="https://img.shields.io/badge/-Xubuntu-225522?style=flat-square&logo=xfce" height="30em"></a>
  <a href="https://kali.org/"><img alt="Kali Linux" src="https://img.shields.io/badge/-Kali Linux-222222?style=flat-square&logo=kali-linux" height="30em"></a>
  <a href="https://linuxmint.com/"><img alt="Linux Mint" src="https://img.shields.io/badge/-Linux Mint-222222?style=flat-square&logo=linux-mint" height="30em"></a>
  <a href="https://tails.boum.org/"><img alt="Tails" src="https://img.shields.io/badge/-Tails-222222?style=flat-square&logo=tails" height="30em"></a>
@@ -100,7 +105,17 @@
 
 ### Mobile
 <p align="center">
+ <a href="https://postmarketos.org/"><img alt="PostmarketOS" src="https://img.shields.io/badge/-PostmarketOS-225522?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTAwLDEwMCkgcm90YXRlKDE4MCkgdHJhbnNsYXRlKDAsIDYuNjk4NzI5ODEwNzc4MDY5KSI+PHBvbHlnb24gcG9pbnRzPSIyOS43LDE3LjUgMjUuOSwyNy44IDE1LjAsMjYuMCAwLjAsMC4wIDY1LjAsMC4wIDU4LjAsOC41IDY1LjAsMTcuMCAyOS44LDE3LjAiIGZpbGw9IiMwOTAiLz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxMDAsMCkgcm90YXRlKDEyMCkgIj48cG9seWdvbiBwb2ludHM9IjI5LjcsMTcuNSAyNS45LDI3LjggMTUuMCwyNi4wIDAuMCwwLjAgNjUuMCwwLjAgNTguMCw4LjUgNjUuMCwxNy4wIDI5LjgsMTcuMCIgZmlsbD0iIzA5MCIvPjwvZz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg1MCw4Ni42MDI1NDAzNzg0NDM4Nikgcm90YXRlKDI0MCkgIj48cG9seWdvbiBwb2ludHM9IjI5LjcsMTcuNSAyNS45LDI3LjggMTUuMCwyNi4wIDAuMCwwLjAgNjUuMCwwLjAgNTguMCw4LjUgNjUuMCwxNy4wIDI5LjgsMTcuMCIgZmlsbD0iIzA5MCIvPjwvZz48L2c+PC9zdmc+" height="30em"></a>
  <a href="https://android.com/"><img alt="Android" src="https://img.shields.io/badge/-Android-225522?style=flat-square&logo=android" height="30em"></a>
+ <a href="https://store.google.com/category/phones"><img alt="Pixel UI" src="https://img.shields.io/badge/-Pixel UI-222222?style=flat-square&logo=google" height="30em"></a>
+ <a href="https://en.miui.com/"><img alt="MIUI" src="https://img.shields.io/badge/-MIUI-222222?style=flat-square&logo=xiaomi" height="30em"></a>
+ <a href="https://consumer.huawei.com"><img alt="EMUI, MagicUI" src="https://img.shields.io/badge/-EMUI, MagicUI-222222?style=flat-square&logo=huawei" height="30em"></a>
+ <a href="https://oneplus.com/ru/oxygenos"><img alt="OxygenOS" src="https://img.shields.io/badge/-One UI-222222?style=flat-square&logo=oneplus" height="30em"></a>
+ <a href="https://samsung.com/us/apps/one-ui/"><img alt="One UI" src="https://img.shields.io/badge/-One UI-222222?style=flat-square&logo=samsung" height="30em"></a>
+ <a href="https://sony.com"><img alt="Xperia UI" src="https://img.shields.io/badge/-Xperia UI-222222?style=flat-square&logo=playstation" height="30em"></a>
+ <a href="https://asus.com/zenui/"><img alt="ZenUI" src="https://img.shields.io/badge/-ZenUI-222222?style=flat-square&logo=asus" height="30em"></a>
+ <a href="https://lenovo.com/"><img alt="ZUI" src="https://img.shields.io/badge/-ZUI-222222?style=flat-square&logo=lenovo" height="30em"></a>
+ <a href="https://en.wikipedia.org/wiki/LG_UX"><img alt="LG UX" src="https://img.shields.io/badge/-LG UX-222222?style=flat-square&logo=lg" height="30em"></a>
  <a href="https://lineageos.org/"><img alt="LineageOS" src="https://img.shields.io/badge/-LineageOS-225522?style=flat-square&logo=lineageos" height="30em"></a>
  <a href="https://apple.com/ios"><img alt="iOS" src="https://img.shields.io/badge/-iOS-222222?style=flat-square&logo=ios" height="30em"></a>
 </p>
@@ -132,8 +147,8 @@
 <p align="left">
  <div>
   <a href="https://reactjs.org/"><img alt="React and React Native" src="https://img.shields.io/badge/-React and React Native-882222?style=flat-square&logo=react" height="30em"></a>
- <a href="https://dart.dev"><img alt="Dart" src="https://img.shields.io/badge/-Dart-882222?style=flat-square&logo=dart" height="30em"></a>
- <a href="https://flutter.dev"><img alt="Flutter" src="https://img.shields.io/badge/-Flutter-882222?style=flat-square&logo=flutter" height="30em"></a>
+  <a href="https://dart.dev"><img alt="Dart" src="https://img.shields.io/badge/-Dart-882222?style=flat-square&logo=dart" height="30em"></a>
+  <a href="https://flutter.dev"><img alt="Flutter" src="https://img.shields.io/badge/-Flutter-882222?style=flat-square&logo=flutter" height="30em"></a>
   <p>Because awkward syntax, lack of unity, dependency hell.</p>
  </div>
  <div>
@@ -142,15 +157,9 @@
  </div>
  <div>
   <a href="https://vuejs.org/"><img alt="Vuejs" src="https://img.shields.io/badge/-Vuejs-882222?style=flat-square&logo=vue.js" height="30em"></a>
-  <p>Because it's an extra layer.</p>
- </div>
- <div>
-  <a href="https://jquery.com/"><img alt="JQuery" src="https://img.shields.io/badge/-JQuery-882222?style=flat-square&logo=jquery" height="30em"></a>
-  <p>Same reason as above.</p>
- </div>
- <div>
   <a href="https://emberjs.com/"><img alt="Ember" src="https://img.shields.io/badge/-Ember-882222?style=flat-square&logo=ember.js" height="30em"></a>
-  <p>Same reason as above.</p>
+   <a href="https://jquery.com/"><img alt="JQuery" src="https://img.shields.io/badge/-JQuery-882222?style=flat-square&logo=jquery" height="30em"></a>
+  <p>Because it's an extra layer.</p>
  </div>
 </p>
 
