@@ -35,14 +35,15 @@
 
 ### In production
 <p align="center">
- <a href="https://kernel.org"><img alt="Linux" src="https://img.shields.io/badge/-Linux-225522?style=flat-square&logo=linux" height="30em"></a>
+ <a href="https://kernel.org"><img alt="Linux" src="https://img.shields.io/badge/-Linux-225522?style=flat-square&logo=linux&logoColor=white" height="30em"></a>
  <a href="https://konsole.kde.org/"><img alt="Konsole" src="https://img.shields.io/badge/-Terminal-225522?style=flat-square&logo=windows-terminal" height="30em"></a>
- <a href="https://ssh.com/academy/ssh"><img alt="SSH" src="https://img.shields.io/badge/-SSH-225522?style=flat-square&logo=gnu-bash" height="30em"></a>
+ <a href="https://ssh.com/academy/ssh"><img alt="ssh" src="https://img.shields.io/badge/-ssh-225522?style=flat-square&logo=gnu-bash" height="30em"></a>
  <a href="https://git-scm.com/"><img alt="git" src="https://img.shields.io/badge/-Git-225522?style=flat-square&logo=git" height="30em"></a>
  <a href="https://npmjs.com/"><img alt="npm" src="https://img.shields.io/badge/-npm-225522?style=flat-square&logo=npm" height="30em"></a>
  <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/-Docker-222222?style=flat-square&logo=docker" height="30em"></a>
  <a href="https://en.wikipedia.org/wiki/OS-level_virtualization"><img alt="chroot, OpenVZ, LXC, KVM" src="https://img.shields.io/badge/-chroot, OpenVZ, LXC, KVM-222222?style=flat-square&logo=linux&logoColor=white" height="30em"></a>
  <a href="https://jwt.io/"><img alt="jwt" src="https://img.shields.io/badge/-JWT-225522?style=flat-square&logo=json-web-tokens" height="30em"></a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API"><img alt="WebSockets" src="https://img.shields.io/badge/-WebSockets-225522?style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjI1NnB4IiBoZWlnaHQ9IjE5M3B4IiB2aWV3Qm94PSIwIDAgMjU2IDE5MyIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCI+CiAgICA8Zz4KICAgICAgICA8cGF0aCBkPSJNMTkyLjQ0MDIyMywxNDQuNjQ0NjEyIEwyMjQuMjIwMTExLDE0NC42NDQ2MTIgTDIyNC4yMjAxMTEsNjguMzM5MzM4NCBMMTg4LjQxNTMyOSwzMi41MzQ1NTYyIEwxNjUuOTQzMDA3LDU1LjAwNjg3ODUgTDE5Mi40NDAyMjMsODEuNTA0MDk0MyBMMTkyLjQ0MDIyMywxNDQuNjQ0NjEyIEwxOTIuNDQwMjIzLDE0NC42NDQ2MTIgWiBNMjI0LjMwMzk2MywxNjAuNTc2NDgyIEwxNzguMDE3Njg4LDE2MC41NzY0ODIgTDExMy40NTE2ODcsMTYwLjU3NjQ4MiBMODYuOTU0NDcxLDEzNC4wNzkyNjYgTDk4LjE5MDYzMjIsMTIyLjg0MzEwNSBMMTIwLjA3NTk5MSwxNDQuNzI4NDY0IEwxNjUuMTA0NDg3LDE0NC43Mjg0NjQgTDEyMC43NDY4MDYsMTAwLjI4NjkzMSBMMTMyLjA2NjgyLDg4Ljk2NjkxNzggTDE3Ni40MjQ1LDEzMy4zMjQ1OTkgTDE3Ni40MjQ1LDg4LjI5NjEwMjIgTDE1NC42MjI5OTQsNjYuNDk0NTk1NSBMMTY1Ljc3NTMwMyw1NS4zNDIyODYzIEwxMTAuNjg0NTczLDAgTDU2LjM0ODUwOTcsMCBMNTYuMzQ4NTA5NywwIEwwLDAgTDMxLjY5NjAzNjcsMzEuNjk2MDM2NyBMMzEuNjk2MDM2NywzMS43Nzk4ODg2IEwzMS44NjM3NDA2LDMxLjc3OTg4ODYgTDk3LjQzNTk2NDYsMzEuNzc5ODg4NiBMMTIwLjY2Mjk1NCw1NS4wMDY4Nzg1IEw4Ni43MDI5MTUyLDg4Ljk2NjkxNzggTDYzLjQ3NTkyNTMsNjUuNzM5OTI3OSBMNjMuNDc1OTI1Myw0Ny43MTE3NTg5IEwzMS42OTYwMzY3LDQ3LjcxMTc1ODkgTDMxLjY5NjAzNjcsNzguOTA0NjgzOSBMODYuNzAyOTE1MiwxMzMuOTExNTYyIEw2NC4zMTQ0NDQ4LDE1Ni4zMDAwMzMgTDEwMC4xMTkyMjcsMTkyLjEwNDgxNSBMMTU0LjQ1NTI5LDE5Mi4xMDQ4MTUgTDI1NiwxOTIuMTA0ODE1IEwyNTYsMTkyLjEwNDgxNSBMMjI0LjMwMzk2MywxNjAuNTc2NDgyIEwyMjQuMzAzOTYzLDE2MC41NzY0ODIgWiIgZmlsbD0iI0ZGRkZGRiI+PC9wYXRoPgogICAgPC9nPgo8L3N2Zz4K" height="30em"></a>
  <a href="https://socket.io/"><img alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-225522?style=flat-square&logo=socket.io" height="30em"></a>
  <a href="https://webrtc.org/"><img alt="WebRTC" src="https://img.shields.io/badge/-WebRTC-222222?style=flat-square&logo=webrtc" height="30em"></a>
  <a href="https://ipfs.io/"><img alt="IPFS" src="https://img.shields.io/badge/-IPFS-225522?style=flat-square&logo=ipfs" height="30em"></a>
@@ -70,10 +71,10 @@
  <a href="https://python.org/"><img alt="Python" src="https://img.shields.io/badge/-Python-222222?style=flat-square&logo=python" height="30em"></a>
  <a href="https://kotlinlang.org/"><img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-225522?style=flat-square&logo=kotlin" height="30em"></a>
  <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/-PHP-222222?style=flat-square&logo=php" height="30em"></a>
- <a href="https://daringfireball.net/projects/markdown/"><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-222222?style=flat-square&logo=markdown" height="30em"></a>
- <a href="https://json.org"><img alt="JSON" src="https://img.shields.io/badge/-JSON-222222?style=flat-square&logo=json" height="30em"></a>
- <a href="https://w3.org/TR/html52/"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-222222?style=flat-square&logo=html5" height="30em"></a>
- <a href="https://w3.org/TR/CSS/"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-222222?style=flat-square&logo=css3" height="30em"></a>
+ <a href="https://daringfireball.net/projects/markdown/"><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-225522?style=flat-square&logo=markdown" height="30em"></a>
+ <a href="https://json.org"><img alt="JSON" src="https://img.shields.io/badge/-JSON-225522?style=flat-square&logo=json" height="30em"></a>
+ <a href="https://w3.org/TR/html52/"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-225522?style=flat-square&logo=html5" height="30em"></a>
+ <a href="https://w3.org/TR/CSS/"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-225522?style=flat-square&logo=css3" height="30em"></a>
 </p>
 
 ## Frameworks
@@ -91,9 +92,11 @@
 ## Operating systems
 ### Desktop
 <p align="center">
+ <a href="https://microsoft.com/"><img alt="Microsoft" src="https://img.shields.io/badge/-Microsoft-222222?style=flat-square&logo=microsoft" height="30em"></a>
  <a href="https://microsoft.com/windows/"><img alt="Windows" src="https://img.shields.io/badge/-Windows-222222?style=flat-square&logo=windows" height="30em"></a>
  <a href="https://apple.com/"><img alt="Apple" src="https://img.shields.io/badge/-Apple-222222?style=flat-square&logo=apple" height="30em"></a>
  <a href="https://apple.com/macos/"><img alt="MacOS" src="https://img.shields.io/badge/-MacOS-222222?style=flat-square&logo=macos" height="30em"></a>
+ <a href="https://kernel.org"><img alt="Linux" src="https://img.shields.io/badge/-Linux-225522?style=flat-square&logo=linux&logoColor=white" height="30em"></a>
  <a href="https://debian.org/"><img alt="Debian" src="https://img.shields.io/badge/-Debian-225522?style=flat-square&logo=debian" height="30em"></a>
  <a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-225522?style=flat-square&logo=ubuntu" height="30em"></a>
  <a href="https://kubuntu.org/"><img alt="Kubuntu" src="https://img.shields.io/badge/-Kubuntu-225522?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+S3VidW50dSBpY29uPC90aXRsZT48cGF0aCBzdHlsZT0iZmlsbDojRkZGRkZGOyIgZD0iTTIxLjI1NyAxNC4yOTJhLjIwNjUuMjA2NSAwIDAxLjEwOTcuMjM3NGwtLjU3NjUgMS41MjkzYS4yMDYzLjIwNjMgMCAwMS0uMjAzMy4xNTVsLTIuMzM2OS0uMjI4M2MtLjA2MjguMDAxLS4xNjIzLS4wMDgtLjI3NzYuMTI1NS0uMDE3OC4wMjA3LS43NDcyLjkzMjgtLjk3ODMgMS4xODMyLS4wNzkuMDcwOC0uMTA2Ny4xNjUyLS4wODc4LjI4MWwuNTUyMSAyLjE5NjJhLjIwNjQuMjA2NCAwIDAxLS4wOTguMjMxNGwtMS41MTMuODkwNmEuMjA2My4yMDYzIDAgMDEtLjI1NTYtLjA0MThsLTEuNTQ5NC0xLjcwNTVjLS4wNTE2LS4wNTU1LS4xNTUxLS4wOTk0LS4yMjcxLS4wNzU5bC0xLjY0NS4yMzkxYy0uMDgwNC4wMTEtLjEyNjcuMDYzNS0uMTYwMy4xMTY0bC0uOTkzOCAyLjA3OTNhLjIwNjMuMjA2MyAwIDAxLS4yMzUzLjA4OWwtMS42Njg3LS4zOTQ1YS4yMDY1LjIwNjUgMCAwMS0uMTQ2Mi0uMTgyNC4yMDkuMjA5IDAgMDEuMDEwNS0uMDgxNWwuODgxMi0zLjI0NGEuMjIyLjIyMiAwIDAxLjI4MjgtLjEzNzNsLjAwMzMtLjAwMWE1Ljg0MjMgNS44NDIzIDAgMDAyLjcxNjguMjE3NmMyLjMyMjItLjM2OTYgNC4xOTY0LTIuMDk1MyA0Ljc1Ni00LjM3OTFsLjAxMS0uMDQwN2MuMDI3Ny0uMTE5NC4xNzY4LS4xODI3LjI5NjMtLjE1NSAwIDAgMi44Njg0Ljk3MzcgMy4yOTM2IDEuMDgxNmEuMjA4OS4yMDg5IDAgMDEuMDM5NC4wMTQzek01LjUzOSA0Ljk4OThsLjAwMDEuMDAwMWEuMjA1MS4yMDUxIDAgMDEuMDY1OS4wNDg5bDIuMzkyIDIuMzU2N2EuMjIyLjIyMiAwIDAxLS4wMTg2LjMxMzhsLS4wMDA4LjAwMzRBNS44NDIyIDUuODQyMiAwIDAwNi40NTk0IDkuOTc2Yy0uODEzMiAyLjIwNjMtLjIyNDQgNC42ODUgMS40OTQgNi4yOWwuMDM1My4wMzk2Yy4wOTA2LjA4MjcuMDY3OC4yMzM1LS4wMTQ4LjMyNDEgMCAwLTIuMjQ1MiAyLjAyNDMtMi41NDcyIDIuMzQyNWEuMjA2NC4yMDY0IDAgMDEtLjI5MjQuMDA3bC0xLjA1MjEtMS4yNTA3YS4yMDYzLjIwNjMgMCAwMS0uMDM1OC0uMjUzbDEuMzM1LTEuOTI1M2MuMDI5Ny0uMDU1My4wODYzLS4xMzc2LjAyNjItLjMwMzUtLjAwOTItLjAyNTYtLjQ0ODItMS4xMDgtLjU1MzYtMS40MzItLjAyMzItLjEwMzUtLjA5Mi0uMTczOC0uMjAyMi0uMjE0bC0yLjE3ODktLjU5NGEuMjA2NC4yMDY0IDAgMDEtLjE1NC0uMTk4NmwtLjAzNjgtMS43NTUyYS4yMDY1LjIwNjUgMCAwMS4xNjE1LS4yMDI2bDIuMjM4NC0uNTE2Yy4wNzM3LS4wMTc3LjE2MjUtLjA4NjYuMTc3Mi0uMTYwOWwuNTk1OC0xLjU1MTdjLjAyOTgtLjA3NTUuMDA2OC0uMTQxNy0uMDIzLS4xOTY4TDQuMTExIDYuNTM5NmEuMjA2NC4yMDY0IDAgMDEuMDM3NC0uMjQ4OGwxLjE2MDItMS4yNjI2YS4yMDY2LjIwNjYgMCAwMS4yMzA1LS4wMzg1em0xMC40OTA2LTEuNzQ3YS4yMTM5LjIxMzkgMCAwMS4wMzEzLjAxNDdsMS41Mzg1Ljg0NTVhLjIwNjUuMjA2NSAwIDAxLjA5NDcuMjQxMmwtLjY3OTMgMi4xOThjLS4wMjE0LjA3MjctLjAwNjIuMTg0MS4wNTA4LjIzNGwxLjA0NiAxLjI5MThjLjA1MDUuMDYzNi4xMTkzLjA3NjcuMTgyLjA3ODVsMi4zLS4yMDI5YS4yMDY0LjIwNjQgMCAwMS4xOTY4LjE1NjdsLjUxMzQgMS42MzYxYS4yMDY0LjIwNjQgMCAwMS0uMDgyLjIxODloLS4wMDAxYS4yMDUuMjA1IDAgMDEtLjA3NTMuMDMyNmwtMy4yNDQuODk0NmEuMjIyLjIyMiAwIDAxLS4yNjI0LS4xNzI5LjAxMi4wMTIgMCAwMS0uMDAyNS0uMDAyNCA1Ljg0MjIgNS44NDIyIDAgMDAtMS4yMDEtMi40NDY2Yy0xLjUwNDEtMS44MDczLTMuOTQ1Mi0yLjUzNjgtNi4xOTQzLTEuODUxbC0uMDQwMi4wMTIzYy0uMTE2OS4wMzcxLS4yNDgtLjA1OTctLjI4NS0uMTc2NiAwIDAtLjYyMzYtMi45NTgtLjc0ODEtMy4zNzg2YS4yMDYzLjIwNjMgMCAwMS4xNC0uMjU2OGwxLjYwOTMtLjI4NThhLjIwNjMuMjA2MyAwIDAxLjIzNy4wOTU1bC45OTI5IDIuMTIwM2MuMDMzLjA1MzQuMDc2LjE0MzYuMjQ5OC4xNzQ0LjAyNjguMDA0OCAxLjE4MzUuMTY1OCAxLjUxNjkuMjM2Ni4xMDEyLjAzMTYuMTk2Ni4wMDczLjI4NjQtLjA2OGwxLjYxMDctMS41OTE2YS4yMDY0LjIwNjQgMCAwMS4yMTc3LS4wNDg2ek0xNi4wMjEuNjk1NUExMS45OTY4IDExLjk5NjggMCAwMDcuNzk0Ljc2M0MxLjU4ODkgMy4wODYtMS41NTgyIDkuOTk5My43NjQ3IDE2LjIwNDRjMi4zMjMgNi4yMDUgOS4yMzYyIDkuMzUyMiAxNS40NDEzIDcuMDI5MyA2LjIwNTEtMi4zMjI5IDkuMzUyMi05LjIzNjIgNy4wMjkzLTE1LjQ0MTNBMTEuOTk3IDExLjk5NyAwIDAwMTYuMDIxLjY5NTV6Ii8+PC9zdmc+Cg==" height="30em"></a
@@ -201,7 +204,7 @@
 ## Working system
 
 ```
-                   00                    Dpc@Doumor
+                   00                    Dpc@Doumor                                         
                    11                    ------------                                       
                   ====                   OS: Manjaro Linux x86_64 + BlackArch repo          
                   .//                    Kernel: last or stable                             
@@ -218,7 +221,7 @@
        -osssssso.  //  :ssssssso.        CPU: AMD Ryzen 3 2200G (4) @ 3.500GHz              
       :osssssss/   //   osssso+++.       GPU: NVIDIA GeForce GTX 1060 6GB                   
      /ossssssss/   //   +ssssooo/-       Memory: 8gb                                        
-   `/ossssso+/:-   //   -:/+osssso+-                                                        
+   `/ossssso+/:-   //   -:/+osssso+-     Disk: 1011G / 2,6T (39%)                           
   `+sso+:-`        //       `.-/+oso:                                                       
  `++:.             //            `-/+/                                                      
  .`                /                `/                                                       
