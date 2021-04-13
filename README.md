@@ -36,8 +36,8 @@
 ### In production
 <p align="center">
  <a href="https://kernel.org"><img alt="Linux" src="https://img.shields.io/badge/-Linux-225522?style=flat-square&logo=linux" height="30em"></a>
- <a href="https://konsole.kde.org/"><img alt="Konsole" src="https://img.shields.io/badge/-Terminal-335533?style=flat-square&logo=windows-terminal" height="30em"></a>
- <a href="https://ssh.com/academy/ssh"><img alt="SSH" src="https://img.shields.io/badge/-SSH-335533?style=flat-square&logo=gnu-bash" height="30em"></a>
+ <a href="https://konsole.kde.org/"><img alt="Konsole" src="https://img.shields.io/badge/-Terminal-225522?style=flat-square&logo=windows-terminal" height="30em"></a>
+ <a href="https://ssh.com/academy/ssh"><img alt="SSH" src="https://img.shields.io/badge/-SSH-225522?style=flat-square&logo=gnu-bash" height="30em"></a>
  <a href="https://git-scm.com/"><img alt="git" src="https://img.shields.io/badge/-Git-225522?style=flat-square&logo=git" height="30em"></a>
  <a href="https://npmjs.com/"><img alt="npm" src="https://img.shields.io/badge/-npm-225522?style=flat-square&logo=npm" height="30em"></a>
  <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/-Docker-222222?style=flat-square&logo=docker" height="30em"></a>
