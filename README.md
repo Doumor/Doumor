@@ -35,6 +35,7 @@
 
 ### In production
 <p align="center">
+ <a href="https://atlassian.com/software/jira"><img alt="Jira" src="https://img.shields.io/badge/-Jira-225522?style=flat-square&logo=jira" height="30em"></a>
  <a href="https://kernel.org"><img alt="Linux" src="https://img.shields.io/badge/-Linux-225522?style=flat-square&logo=linux&logoColor=white" height="30em"></a>
  <a href="https://konsole.kde.org/"><img alt="Konsole" src="https://img.shields.io/badge/-Terminal-225522?style=flat-square&logo=windows-terminal" height="30em"></a>
  <a href="https://ssh.com/academy/ssh"><img alt="ssh" src="https://img.shields.io/badge/-ssh-225522?style=flat-square&logo=gnu-bash" height="30em"></a>
