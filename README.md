@@ -1,6 +1,6 @@
 # About me
 * [My education](Education.md) <br>
-  *I have 4 certificates*
+  *I have 5 certificates*
 
 ## Technologies
 ### Description
@@ -36,6 +36,7 @@
 ### In production
 <p align="center">
  <a href="https://atlassian.com/software/jira"><img alt="Jira" src="https://img.shields.io/badge/-Jira-225522?style=flat-square&logo=jira" height="30em"></a>
+ <a href="https://en.wikipedia.org/wiki/Domain_Name_System"><img alt="DNS config" src="https://img.shields.io/badge/-DNS config-225522?style=flat-square&logo=oracle" height="30em"></a>
  <a href="https://kernel.org"><img alt="Linux" src="https://img.shields.io/badge/-Linux-225522?style=flat-square&logo=linux&logoColor=white" height="30em"></a>
  <a href="https://konsole.kde.org/"><img alt="Konsole" src="https://img.shields.io/badge/-Terminal-225522?style=flat-square&logo=windows-terminal" height="30em"></a>
  <a href="https://ssh.com/academy/ssh"><img alt="ssh" src="https://img.shields.io/badge/-ssh-225522?style=flat-square&logo=gnu-bash" height="30em"></a>
@@ -61,6 +62,11 @@
  <a href="https://redis.io/"><img alt="Redis" src="https://img.shields.io/badge/-Redis-222222?style=flat-square&logo=redis" height="30em"></a>
  <a href="https://mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-662222?style=flat-square&logo=mysql" height="30em"></a>
  <a href="https://mariadb.org/"><img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-662222?style=flat-square&logo=mariadb" height="30em"></a>
+</p>
+
+### Other
+<p align="center">
+ <a href="https://autodesk.com/products/inventor/overview"><img alt="Autodesk Inventor" src="https://img.shields.io/badge/-Autodesk Inventor-225522?style=flat-square&logo=autodesk" height="30em"></a>
 </p>
 
 ## Languages
