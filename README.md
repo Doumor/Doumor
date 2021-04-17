@@ -156,7 +156,15 @@
  <a href="https://xfce.org/"><img alt="XFCE" src="https://img.shields.io/badge/-XFCE-222222?style=flat-square&logo=xfce" height="30em"></a>
 </p>
 
-## A list of things I don't know and don't want to know
+
+## A list of things I interested
+<p align="center">
+ <a href="https://www.kaiostech.com/"><img alt="KaiOS" src="https://img.shields.io/badge/-KaiOS-225522?style=flat-square&logo=kaios" height="30em"></a>
+ <a href="https://www.raspberrypi.org/"><img alt="Raspberry pi" src="https://img.shields.io/badge/-Raspberry pi-225522?style=flat-square&logo=raspberry-pi" height="30em"></a>
+ <a href="https://scala-lang.org/"><img alt="Scala" src="https://img.shields.io/badge/-Scala-225522?style=flat-square&logo=scala" height="30em"></a>
+</p>
+
+## A list of things I don't know and don't want to learn
 <p align="left">
  <div>
   <a href="https://reactjs.org/"><img alt="React and React Native" src="https://img.shields.io/badge/-React and React Native-882222?style=flat-square&logo=react" height="30em"></a>
