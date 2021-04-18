@@ -1,6 +1,6 @@
 # About me
 * [My education](Education.md) <br>
-  *I have 5 certificates*
+  *I have 11 certificates*
 
 ## Technologies
 ### Description
