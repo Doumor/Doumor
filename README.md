@@ -101,9 +101,9 @@
 ### Desktop
 <p align="center">
  <a href="https://microsoft.com/"><img alt="Microsoft" src="https://img.shields.io/badge/-Microsoft-222222?style=flat-square&logo=microsoft" height="30em"></a>
- <a href="https://microsoft.com/windows/"><img alt="Windows" src="https://img.shields.io/badge/-Windows-222222?style=flat-square&logo=windows" height="30em"></a>
+ <a href="https://microsoft.com/windows/"><img alt="Windows 8.1/10" src="https://img.shields.io/badge/-Windows-222222?style=flat-square&logo=windows" height="30em"></a>
  <a href="https://apple.com/"><img alt="Apple" src="https://img.shields.io/badge/-Apple-222222?style=flat-square&logo=apple" height="30em"></a>
- <a href="https://apple.com/macos/"><img alt="MacOS" src="https://img.shields.io/badge/-MacOS-222222?style=flat-square&logo=macos" height="30em"></a>
+ <a href="https://apple.com/macos/"><img alt="MacOS 10.10+" src="https://img.shields.io/badge/-MacOS-222222?style=flat-square&logo=macos" height="30em"></a>
  <a href="https://kernel.org"><img alt="Linux" src="https://img.shields.io/badge/-Linux-225522?style=flat-square&logo=linux&logoColor=white" height="30em"></a>
  <a href="https://debian.org/"><img alt="Debian" src="https://img.shields.io/badge/-Debian-225522?style=flat-square&logo=debian" height="30em"></a>
  <a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-225522?style=flat-square&logo=ubuntu" height="30em"></a>
