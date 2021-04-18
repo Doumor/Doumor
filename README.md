@@ -73,7 +73,7 @@
 <p align="center">
  <a href="https://javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-225522?style=flat-square&logo=javascript" height="30em"></a>
  <a href="https://typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-222222?style=flat-square&logo=typescript" height="30em"></a>
- <a href="https://gnu.org/software/bash/"><img alt="Bash"src="https://img.shields.io/badge/-Bash-222222?style=flat-square&logo=gnu-bash" height="30em"></a>
+ <a href="https://gnu.org/software/bash/"><img alt="Bash/Zsh"src="https://img.shields.io/badge/-Bash-222222?style=flat-square&logo=gnu-bash" height="30em"></a>
  <a href="https://rust-lang.org/"><img alt="Rust" src="https://img.shields.io/badge/-Rust-225522?style=flat-square&logo=rust" height="30em"></a>
  <a href="https://python.org/"><img alt="Python" src="https://img.shields.io/badge/-Python-222222?style=flat-square&logo=python" height="30em"></a>
  <a href="https://kotlinlang.org/"><img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-225522?style=flat-square&logo=kotlin" height="30em"></a>
