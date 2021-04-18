@@ -9,3 +9,10 @@
 |[Applied Computer Science. Git](https://stepik.org/cert/905701)|[Mark Zaslavskiy](https://stepik.org/users/17406227)<br>[Artyom Filatov](https://stepik.org/users/19741109)<br>[Anton Filatov](https://stepik.org/users/19741111)<br>[Tatyana Berlenko](https://stepik.org/users/38675)|![Applied Computer Science. Git](https://stepik.org/certificate/dcb93fdfcd53bd8ffb17734e8d76f1fc4dc525b9.png)|[PDF](https://stepik.org/certificate/dcb93fdfcd53bd8ffb17734e8d76f1fc4dc525b9.pdf)|
 |[Основы Git](https://stepik.org/cert/905492)|[Mark Zaslavskiy](https://stepik.org/users/17406227)<br>[Artyom Filatov](https://stepik.org/users/19741109)<br>[Anton Filatov](https://stepik.org/users/19741111)<br>[Tatyana Berlenko](https://stepik.org/users/38675)|![Основы Git](https://stepik.org/certificate/dd1e7cd1d616b6589fce8f747bf1b08f5c6730e3.png)|[PDF](https://stepik.org/certificate/dd1e7cd1d616b6589fce8f747bf1b08f5c6730e3.pdf)|
 |[Программирование на Python](https://stepik.org/cert/911970)|[Bioinformatics Institute](https://stepik.org/users/651763)<br>[Site](https://bioinf.me/)<br><br>[Тимофей Бондарев](https://stepik.org/users/779)<br>[Павел Федотов](https://stepik.org/users/171610)|![Программирование на Python](https://stepik.org/certificate/5a75a097d1cbefd5b583353718082d321cb93541.png)|[PDF](https://stepik.org/certificate/5a75a097d1cbefd5b583353718082d321cb93541.pdf)|
+|[]()|[]()<br><br>|![]()|[PDF]()|
+|[JavaScript для начинающих](https://stepik.org/cert/948632)|[Anton Kholin](https://stepik.org/users/ckub)<br><br>|![JavaScript для начинающих](https://stepik.org/certificate/a7c0030511d82d4d7d939d3aa645a93dc10ea0eb.png)|[PDF](https://stepik.org/certificate/a7c0030511d82d4d7d939d3aa645a93dc10ea0eb.pdf)|
+<!---
+|[]()|[]()<br><br>|![]()|[PDF]()|
+|[]()|[]()<br><br>|![]()|[PDF]()|
+|[]()|[]()<br><br>|![]()|[PDF]()|
+-->
