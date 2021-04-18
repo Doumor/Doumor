@@ -13,8 +13,8 @@
 |[Программирование на Python](https://stepik.org/cert/911970)|[Bioinformatics Institute](https://stepik.org/users/651763)<br>[Site](https://bioinf.me/)<br><br>[Тимофей Бондарев](https://stepik.org/users/779)<br>[Павел Федотов](https://stepik.org/users/171610)|![Программирование на Python](https://stepik.org/certificate/5a75a097d1cbefd5b583353718082d321cb93541.png)|[PDF](https://stepik.org/certificate/5a75a097d1cbefd5b583353718082d321cb93541.pdf)|
 |[Jira Service Management: служба поддержки пользователей](https://stepik.org/cert/948202)|[Артем Глотов](https://stepik.org/users/41305294)|![Jira Service Management: служба поддержки пользователей](https://stepik.org/certificate/72172964e11117806261d50686ff8460418f9e69.png)|[PDF](https://stepik.org/certificate/72172964e11117806261d50686ff8460418f9e69.pdf)|
 |[Введение в сетевые технологии](https://stepik.org/cert/948856)|[Far Eastern Federal University](dvfu.ru)<br><br>Фадюшин Сергей Геннадьевич|![Введение в сетевые технологии](https://stepik.org/certificate/9df41f088969037c1e2bb4709501d621abd15abb.png)|[PDF](https://stepik.org/certificate/9df41f088969037c1e2bb4709501d621abd15abb.pdf)|
-|[]()|[]()<br><br>|![]()|[PDF]()|
-|[]()|[]()<br><br>|![]()|[PDF]()|
+|[Безопасность в интернете](https://stepik.org/cert/948352)|[Академия Яндекса](https://stepik.org/org/yandex_academy)<br><br>[Наталья Куканова](https://stepik.org/users/1716759)<br>[Надежда Кияткина](https://stepik.org/users/1718018)<br>[Александра Несанова](https://stepik.org/users/1870105)|![Безопасность в интернете](https://stepik.org/certificate/f32089dd756dabd960c2f610f6d998ad32d48a82.png)|[PDF](https://stepik.org/certificate/f32089dd756dabd960c2f610f6d998ad32d48a82.pdf)|
+|[Введение в Интернет Вещей](https://stepik.org/cert/948074)|[Центр компетенций НТИ](https://www.skoltech.ru/)|![Введение в Интернет Вещей](https://stepik.org/certificate/98cbc81213feaef423cc8ad1ce73492a328906ba.png)|[PDF](https://stepik.org/certificate/98cbc81213feaef423cc8ad1ce73492a328906ba.pdf)|
 
 
 <!---
