@@ -1,6 +1,6 @@
 # About me
-* [My education](Education.md)<br>
-  *I have 11 certificates*<br><br>
+## My education<br>
+### I have 12 [certificates](Education.md) from:<br><br>
 <p align="center">
  <img alt="Дальневосточный Федеральный Университет" src="https://www.dvfu.ru/html/svg/logos/logo_base_ru.svg" height="100em"/>
  <img alt="Bioinformatics Institute" src="http://bioinformaticsinstitute.ru/sites/default/files/bi-logo-hrz-eng-wb.png" height="100em"/>
@@ -239,7 +239,7 @@
            `/++++++//++++++:             WM Theme: Gently-Blur                              
           `/+++oooo//ooooooo/`           Theme: Gently [Plasma], Breeze-Gently [GTK2/3]     
          ./ooosssso//osssssso+`          Icons: breeze-dark [Plasma], breeze-dark [GTK2/3]  
-        .oossssso-`//`/ossssss+`         Terminal: cool-retro-term or konsole on yakuake    
+        .oossssso-`//`/ossssss+`         Terminal: cool-retro-term or konsole or yakuake    
        -osssssso.  //  :ssssssso.        CPU: AMD Ryzen 3 2200G (4) @ 3.500GHz              
       :osssssss/   //   osssso+++.       GPU: NVIDIA GeForce GTX 1060 6GB                   
      /ossssssss/   //   +ssssooo/-       Memory: 8gb                                        
