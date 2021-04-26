@@ -1,6 +1,6 @@
 # Education
 
-## Certificates
+## Stepik certificates
 
 |Certificate|Institution and/or teacher|Image|PDF|
 |---|---|---|---|
