@@ -1,6 +1,6 @@
 # About me
 ## My education<br>
-### I have 13 [certificates](Education.md) from:<br><br>
+### I have 14 [certificates](Education.md) from:<br><br>
 <p align="center">
  <img alt="Дальневосточный Федеральный Университет" src="https://www.dvfu.ru/html/svg/logos/logo_base_ru.svg" height="100em"/>
  <img alt="Bioinformatics Institute" src="http://bioinformaticsinstitute.ru/sites/default/files/bi-logo-hrz-eng-wb.png" height="100em"/>
