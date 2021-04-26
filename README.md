@@ -75,6 +75,7 @@
  <a href="https://autodesk.com/products/inventor/overview"><img alt="Autodesk Inventor" src="https://img.shields.io/badge/-Autodesk Inventor-225522?style=flat-square&logo=autodesk" height="30em"></a>
  <a href="https://libreoffice.org/"><img alt="LibreOffice" src="https://img.shields.io/badge/-LibreOffice-225522?style=flat-square&logo=libreoffice" height="30em"></a>
  <a href="https://office.com/"><img alt="Microsoft Office" src="https://img.shields.io/badge/-Microsoft Office-222222?style=flat-square&logo=microsoft-office" height="30em"></a>
+ <a href="https://office.com/"><img alt="Microsoft Excel" src="https://img.shields.io/badge/-Microsoft Excel-222222?style=flat-square&logo=microsoft-excel" height="30em"></a>
 </p>
 
 ## Languages
