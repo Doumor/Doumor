@@ -1,11 +1,15 @@
 # About me
 ## My education<br>
-### I have 14 [certificates](Education.md) from:<br><br>
+### I have 14 [certificates](Edu/Stepik.md) from:<br><br>
 <p align="center">
  <img alt="Дальневосточный Федеральный Университет" src="https://www.dvfu.ru/html/svg/logos/logo_base_ru.svg" height="100em"/>
  <img alt="Bioinformatics Institute" src="http://bioinformaticsinstitute.ru/sites/default/files/bi-logo-hrz-eng-wb.png" height="100em"/>
  <img alt="Академия Яндекса" src="https://scontent.fhel5-1.fna.fbcdn.net/v/t1.18169-9/20264989_1983366581893261_8457505051582237534_n.png?_nc_cat=103&ccb=1-3&_nc_sid=973b4a&_nc_ohc=v-QM8zOyOx8AX9ZSevJ&_nc_ht=scontent.fhel5-1.fna&oh=dcca7abbd13b22ee4cf9f2f262e8b340&oe=60A2FA75" height="100em"/>
  <img alt="Skolteth" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Logo_of_the_Skolkovo_Foundation.svg/300px-Logo_of_the_Skolkovo_Foundation.svg.png" height="100em"/>
+</p>
+
+<p align="center">
+ <i>And others...</i>
 </p>
 
 ## Technologies
