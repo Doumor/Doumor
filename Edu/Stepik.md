@@ -1,6 +1,8 @@
-# Education
+# Stepik certificates
 
-## Stepik certificates
+[Back](../README.md)
+
+## Certificates related to my work.
 
 |Certificate|Institution and/or teacher|Image|PDF|
 |---|---|---|---|
@@ -18,6 +20,34 @@
 |[Введение в Интернет Вещей](https://stepik.org/cert/948074)|[Центр компетенций НТИ](https://stepik.org/users/229758501)<br>[Site](https://www.skoltech.ru/)<br>Wiki: [ENG](https://en.wikipedia.org/wiki/Skolkovo_Institute_of_Science_and_Technology) [RU](https://ru.wikipedia.org/wiki/Сколковский_институт_науки_и_технологий)|![Введение в Интернет Вещей](https://stepik.org/certificate/98cbc81213feaef423cc8ad1ce73492a328906ba.png)|[PDF](https://stepik.org/certificate/98cbc81213feaef423cc8ad1ce73492a328906ba.pdf)|
 |[Поколение Python](https://stepik.org/cert/957327)|[iq option](https://iqcharity.ru/)<br><br>[Школа BEEGEEK](https://beegeek.tilda.ws/)|![Поколение Python](https://stepik.org/certificate/be8462b6ca081e89ddd4cfdbb73ae64dc7cefb0b.png)|[PDF](https://stepik.org/certificate/be8462b6ca081e89ddd4cfdbb73ae64dc7cefb0b.pdf)|
 |[Информационные технологии. Работа с электронными таблицами Excel](https://stepik.org/cert/959073)|[Марина Романовна Меламуд](https://stepik.org/users/72387351)<br>[Вера Григорьевна Герасимова](https://stepik.org/users/79997724)<br>[Павел Евгеньевич Коваль](https://stepik.org/users/79989370)<br>[Наталия Женова](https://stepik.org/users/25781276)|![Информационные технологии. Работа с электронными таблицами Excel](https://stepik.org/certificate/f5c11a8ef09a4d7efcad7850beb4e1e6da049b87.png)|[PDF](https://stepik.org/certificate/f5c11a8ef09a4d7efcad7850beb4e1e6da049b87.pdf)|
+
+## Other certificates
+*Not included in the total count of the number of certificates in [README.MD](../README.md)*
+### Study-related
+
+|Certificate|Institution and/or teacher|Image|PDF|
+|---|---|---|---|
+|[Art of soft skills: гибкие навыки для жизни и учебы](https://stepik.org/cert/966910)|[Русская Школа Программирования](https://stepik.org/org/russian_codeschool)|![Art of soft skills: гибкие навыки для жизни и учебы](https://stepik.org/certificate/84d4aaefb6213153ea53fdfbe12804a8151edbb3.png)|[PDF](https://stepik.org/certificate/84d4aaefb6213153ea53fdfbe12804a8151edbb3.pdf)|
+
+### Staff training, tutoring
+
+|Certificate|Institution and/or teacher|Image|PDF|
+|---|---|---|---|
+|[Педагогический дизайн УРОКА](https://stepik.org/cert/957730)|[ФПОИСК АГУ](https://stepik.org/users/291566454)|![Педагогический дизайн УРОКА](https://stepik.org/certificate/d349a4cdb8d5ac3d1450b01e00b7a233fc1a4d6a.png)|[PDF](https://stepik.org/certificate/d349a4cdb8d5ac3d1450b01e00b7a233fc1a4d6a.pdf)|
+
+### Volunteering
+
+|Certificate|Institution and/or teacher|Image|PDF|
+|---|---|---|---|
+|[Осознанное компетентное волонтёрство](https://stepik.org/cert/948988)|[Школа волонтёра «Вместе весело»](https://golfstreamfond.ru/project/shkola-volontyora-vmeste-veselo/)|![Осознанное компетентное волонтёрство](https://stepik.org/certificate/351095881260a0f1781f98a2f61b350fb121d005.png)|[PDF](https://stepik.org/certificate/351095881260a0f1781f98a2f61b350fb121d005.pdf)|
+
+### Others
+
+|Certificate|Institution and/or teacher|Image|PDF|
+|---|---|---|---|
+|[Финансовая грамотность](https://stepik.org/cert/932604)|[Наталья Ющик](https://stepik.org/users/15642295)|![Финансовая грамотность](https://stepik.org/certificate/1b326a6fa401da69a720a8e2ae2a7dbd0a4f4301.png)|[PDF](https://stepik.org/certificate/1b326a6fa401da69a720a8e2ae2a7dbd0a4f4301.pdf)|
+|[Мужчина и женщина в современном мире](https://stepik.org/cert/946785)|[БФУ им. И. Канта](https://stepik.org/users/38793712)|![Мужчина и женщина в современном мире](https://stepik.org/certificate/d89d4a1b360ee312bb582db9a17017f728605602.png)|[PDF](https://stepik.org/certificate/d89d4a1b360ee312bb582db9a17017f728605602.pdf)|
+
 
 <!---
 |[]()|[]()<br><br>|![]()|[PDF]()|
