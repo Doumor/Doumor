@@ -1,6 +1,6 @@
 # About me
 ## My education<br>
-### I have 14 [certificates](Edu/Stepik.md) from:<br><br>
+### I have 14 [certificates](Edu/Stepik.md) on Stepik from:<br><br>
 <p align="center">
  <img alt="Дальневосточный Федеральный Университет" src="https://www.dvfu.ru/html/svg/logos/logo_base_ru.svg" height="100em"/>
  <img alt="Bioinformatics Institute" src="http://bioinformaticsinstitute.ru/sites/default/files/bi-logo-hrz-eng-wb.png" height="100em"/>
@@ -11,6 +11,8 @@
 <p align="center">
  <i>And others...</i>
 </p>
+
+### I have 1 [certificate](Edu/Amazon.md) from Amazon
 
 ## Technologies
 ### Description
