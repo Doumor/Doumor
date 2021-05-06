@@ -1,1 +1,1 @@
-# Amazon image folder
+# WHO image/pdf folder
