@@ -27,7 +27,7 @@
 <p align="center">
  <img alt="Thing I love" src="https://img.shields.io/badge/-Thing I love-225522?style=flat-square" height="30em">
  <img alt="Common things" src="https://img.shields.io/badge/-Common things-222222?style=flat-square" height="30em">
- <img alt="Thing I don't like" src="https://img.shields.io/badge/-Thing I don't love-662222?style=flat-square" height="30em">
+ <img alt="Thing I don't like" src="https://img.shields.io/badge/-Thing I don't like-662222?style=flat-square" height="30em">
 </p>
 
 ### IDEs
