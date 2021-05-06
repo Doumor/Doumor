@@ -1,1 +1,0 @@
-# WHO image/pdf folder
