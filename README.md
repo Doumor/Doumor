@@ -12,6 +12,8 @@
  <i>And others...</i>
 </p>
 
+### I have 1 [certificate](Edu/Amazon.md) from Microsoft
+
 ### I have 1 [certificate](Edu/Amazon.md) from Amazon
 
 ### I have 2 [certificates](Edu/WHO.md) from WHO
