@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
- <img alt="Learing" src="https://img.shields.io/badge/-Learing-4444AA?style=flat-square" height="30em">
+ <img alt="Learning" src="https://img.shields.io/badge/-Learning-4444AA?style=flat-square" height="30em">
  <img alt="Links" src="https://img.shields.io/badge/-Links-222288?style=flat-square" height="30em">
 </p>
 
