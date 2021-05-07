@@ -12,9 +12,29 @@
  <i>And others...</i>
 </p>
 
-### I have 1 [certificate](Edu/Microsoft.md) from Microsoft
+### I have 8 [certificates](Edu/Microsoft.md), 20+ [badges and trophies](Edu/Microsoft-extra.md) from Microsoft
 
 ### I have 1 [certificate](Edu/Amazon.md) from Amazon
+
+<!---
+### I have 1 [certificate](Edu/Coursera.md) on Coursera from ...
+--->
+
+<!---
+### I have 1 [certificate](Edu/HP.md) from HP
+--->
+
+<!---
+### I have 1 [certificate](Edu/freecodecamp.md) from freecodecamp
+--->
+
+<!---
+### I have 1 [certificate](Edu/Alison.md) from Alison
+--->
+
+<!---
+### I have 1 [certificate](Edu/SoloLearn.md) from SoloLearn
+--->
 
 ### I have 2 [certificates](Edu/WHO.md) from WHO
 
@@ -30,6 +50,11 @@
  <img alt="Thing I don't like" src="https://img.shields.io/badge/-Thing I don't like-662222?style=flat-square" height="30em">
 </p>
 
+<p align="center">
+ <img alt="Learing" src="https://img.shields.io/badge/-Learing-4444AA?style=flat-square" height="30em">
+ <img alt="Links" src="https://img.shields.io/badge/-Links-222288?style=flat-square" height="30em">
+</p>
+
 ### IDEs
 <p align="center">
  <a href="https://atom.io"><img src="https://img.shields.io/badge/-Atom-225522?style=flat-square&logo=atom" height="30em"></a>
@@ -41,8 +66,9 @@
 ### Browsers
 <p align="center">
  <a href="https://mozilla.org/ru/firefox/"><img alt="Smells like teen linux" src="https://img.shields.io/badge/-Firefox-225522?style=flat-square&logo=firefox-browser" height="30em"></a>
+ <a href="https://waterfox.net/"><img alt="Smells like linux" src="https://img.shields.io/badge/-Waterfox-225522?style=flat-square&logo=firefox-browser&logoColor=blue" height="30em"></a>
  <a href="https://torproject.org/"><img alt="Tor" src="https://img.shields.io/badge/-Tor Browser-222222?style=flat-square&logo=tor-browser" height="30em"></a>
- <a href="https://google.ru/chrome/"><img alt="Common browser" src="https://img.shields.io/badge/-Chrome-222222?style=flat-square&logo=google-chrome" height="30em"></a>
+ <a href="https://google.ru/chrome/"><img alt="Common browser" src="https://img.shields.io/badge/-Chrome/Chromium-222222?style=flat-square&logo=google-chrome" height="30em"></a>
  <a href="https://brave.com/"><img alt="Best chromium fork" src="https://img.shields.io/badge/-Brave-225522?style=flat-square&logo=brave" height="30em"></a>
  <a href="https://opera.com"><img alt="Just another chromium fork" src="https://img.shields.io/badge/-Opera-222222?style=flat-square&logo=opera" height="30em"></a>
  <a href="https://getyabrowser.com"><img alt="Full of crap browser" src="https://img.shields.io/badge/-Yandex-662222?style=flat-square&logo=yandex" height="30em"></a>
@@ -58,8 +84,8 @@
  <a href="https://ssh.com/academy/ssh"><img alt="ssh" src="https://img.shields.io/badge/-ssh-225522?style=flat-square&logo=gnu-bash" height="30em"></a>
  <a href="https://git-scm.com/"><img alt="git" src="https://img.shields.io/badge/-Git-225522?style=flat-square&logo=git" height="30em"></a>
  <a href="https://npmjs.com/"><img alt="npm" src="https://img.shields.io/badge/-npm-225522?style=flat-square&logo=npm" height="30em"></a>
- <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/-Docker-222222?style=flat-square&logo=docker" height="30em"></a>
- <a href="https://en.wikipedia.org/wiki/OS-level_virtualization"><img alt="chroot, OpenVZ, LXC, KVM" src="https://img.shields.io/badge/-chroot, OpenVZ, LXC, KVM-222222?style=flat-square&logo=linux&logoColor=white" height="30em"></a>
+ <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/-Docker-4444AA?style=flat-square&logo=docker" height="30em"></a>
+ <a href="https://en.wikipedia.org/wiki/OS-level_virtualization"><img alt="chroot, OpenVZ, LXC, KVM" src="https://img.shields.io/badge/-chroot, OpenVZ, LXC, KVM-4444AA?style=flat-square&logo=linux&logoColor=white" height="30em"></a>
  <a href="https://jwt.io/"><img alt="jwt" src="https://img.shields.io/badge/-JWT-225522?style=flat-square&logo=json-web-tokens" height="30em"></a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API"><img alt="WebSockets" src="https://img.shields.io/badge/-WebSockets-225522?style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjI1NnB4IiBoZWlnaHQ9IjE5M3B4IiB2aWV3Qm94PSIwIDAgMjU2IDE5MyIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCI+CiAgICA8Zz4KICAgICAgICA8cGF0aCBkPSJNMTkyLjQ0MDIyMywxNDQuNjQ0NjEyIEwyMjQuMjIwMTExLDE0NC42NDQ2MTIgTDIyNC4yMjAxMTEsNjguMzM5MzM4NCBMMTg4LjQxNTMyOSwzMi41MzQ1NTYyIEwxNjUuOTQzMDA3LDU1LjAwNjg3ODUgTDE5Mi40NDAyMjMsODEuNTA0MDk0MyBMMTkyLjQ0MDIyMywxNDQuNjQ0NjEyIEwxOTIuNDQwMjIzLDE0NC42NDQ2MTIgWiBNMjI0LjMwMzk2MywxNjAuNTc2NDgyIEwxNzguMDE3Njg4LDE2MC41NzY0ODIgTDExMy40NTE2ODcsMTYwLjU3NjQ4MiBMODYuOTU0NDcxLDEzNC4wNzkyNjYgTDk4LjE5MDYzMjIsMTIyLjg0MzEwNSBMMTIwLjA3NTk5MSwxNDQuNzI4NDY0IEwxNjUuMTA0NDg3LDE0NC43Mjg0NjQgTDEyMC43NDY4MDYsMTAwLjI4NjkzMSBMMTMyLjA2NjgyLDg4Ljk2NjkxNzggTDE3Ni40MjQ1LDEzMy4zMjQ1OTkgTDE3Ni40MjQ1LDg4LjI5NjEwMjIgTDE1NC42MjI5OTQsNjYuNDk0NTk1NSBMMTY1Ljc3NTMwMyw1NS4zNDIyODYzIEwxMTAuNjg0NTczLDAgTDU2LjM0ODUwOTcsMCBMNTYuMzQ4NTA5NywwIEwwLDAgTDMxLjY5NjAzNjcsMzEuNjk2MDM2NyBMMzEuNjk2MDM2NywzMS43Nzk4ODg2IEwzMS44NjM3NDA2LDMxLjc3OTg4ODYgTDk3LjQzNTk2NDYsMzEuNzc5ODg4NiBMMTIwLjY2Mjk1NCw1NS4wMDY4Nzg1IEw4Ni43MDI5MTUyLDg4Ljk2NjkxNzggTDYzLjQ3NTkyNTMsNjUuNzM5OTI3OSBMNjMuNDc1OTI1Myw0Ny43MTE3NTg5IEwzMS42OTYwMzY3LDQ3LjcxMTc1ODkgTDMxLjY5NjAzNjcsNzguOTA0NjgzOSBMODYuNzAyOTE1MiwxMzMuOTExNTYyIEw2NC4zMTQ0NDQ4LDE1Ni4zMDAwMzMgTDEwMC4xMTkyMjcsMTkyLjEwNDgxNSBMMTU0LjQ1NTI5LDE5Mi4xMDQ4MTUgTDI1NiwxOTIuMTA0ODE1IEwyNTYsMTkyLjEwNDgxNSBMMjI0LjMwMzk2MywxNjAuNTc2NDgyIEwyMjQuMzAzOTYzLDE2MC41NzY0ODIgWiIgZmlsbD0iI0ZGRkZGRiI+PC9wYXRoPgogICAgPC9nPgo8L3N2Zz4K" height="30em"></a>
  <a href="https://socket.io/"><img alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-225522?style=flat-square&logo=socket.io" height="30em"></a>
@@ -138,6 +164,7 @@
 
 ### Mobile
 <p align="center">
+ <a href="https://kernel.org"><img alt="Linux" src="https://img.shields.io/badge/-Linux-225522?style=flat-square&logo=linux&logoColor=white" height="30em"></a>
  <a href="https://postmarketos.org/"><img alt="PostmarketOS" src="https://img.shields.io/badge/-PostmarketOS-225522?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTAwLDEwMCkgcm90YXRlKDE4MCkgdHJhbnNsYXRlKDAsIDYuNjk4NzI5ODEwNzc4MDY5KSI+PHBvbHlnb24gcG9pbnRzPSIyOS43LDE3LjUgMjUuOSwyNy44IDE1LjAsMjYuMCAwLjAsMC4wIDY1LjAsMC4wIDU4LjAsOC41IDY1LjAsMTcuMCAyOS44LDE3LjAiIGZpbGw9IiMwOTAiLz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxMDAsMCkgcm90YXRlKDEyMCkgIj48cG9seWdvbiBwb2ludHM9IjI5LjcsMTcuNSAyNS45LDI3LjggMTUuMCwyNi4wIDAuMCwwLjAgNjUuMCwwLjAgNTguMCw4LjUgNjUuMCwxNy4wIDI5LjgsMTcuMCIgZmlsbD0iIzA5MCIvPjwvZz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg1MCw4Ni42MDI1NDAzNzg0NDM4Nikgcm90YXRlKDI0MCkgIj48cG9seWdvbiBwb2ludHM9IjI5LjcsMTcuNSAyNS45LDI3LjggMTUuMCwyNi4wIDAuMCwwLjAgNjUuMCwwLjAgNTguMCw4LjUgNjUuMCwxNy4wIDI5LjgsMTcuMCIgZmlsbD0iIzA5MCIvPjwvZz48L2c+PC9zdmc+" height="30em"></a>
  <a href="https://android.com/"><img alt="Android" src="https://img.shields.io/badge/-Android-225522?style=flat-square&logo=android" height="30em"></a>
  <a href="https://store.google.com/category/phones"><img alt="Pixel UI" src="https://img.shields.io/badge/-Pixel UI-222222?style=flat-square&logo=google" height="30em"></a>
@@ -150,6 +177,7 @@
  <a href="https://lenovo.com/"><img alt="ZUI" src="https://img.shields.io/badge/-ZUI-222222?style=flat-square&logo=lenovo" height="30em"></a>
  <a href="https://en.wikipedia.org/wiki/LG_UX"><img alt="LG UX" src="https://img.shields.io/badge/-LG UX-222222?style=flat-square&logo=lg" height="30em"></a>
  <a href="https://lineageos.org/"><img alt="LineageOS" src="https://img.shields.io/badge/-LineageOS-225522?style=flat-square&logo=lineageos" height="30em"></a>
+ <a href="https://apple.com/"><img alt="Apple" src="https://img.shields.io/badge/-Apple-222222?style=flat-square&logo=apple" height="30em"></a>
  <a href="https://apple.com/ios"><img alt="iOS" src="https://img.shields.io/badge/-iOS-222222?style=flat-square&logo=ios" height="30em"></a>
 </p>
 
@@ -207,21 +235,21 @@
 
 ## Social Networks
 <p align="center">
- <a href="https://linkedin.com/"><img alt="My LinkedIn" src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=linkedin" height="30em"></a>
- <a href="https://vk.com/doumor"><img alt="My VK" src="https://img.shields.io/badge/-VK-222222?style=flat-square&logo=vk" height="30em"></a>
- <a href="https://facebook.com/ddoumor"><img alt="My Facebook" src="https://img.shields.io/badge/-Facebook-222222?style=flat-square&logo=facebook" height="30em"></a>
- <a href="https://instagram.com/doumorr"><img alt="My Instagram" src="https://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=instagram" height="30em"></a>
- <a href="https://twitter.com/?"><img alt="My Twitter" src="https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter" height="30em"></a>
- <a href="https://discord.com"><img alt="My Discord" src="https://img.shields.io/badge/-Discord-222222?style=flat-square&logo=discord" height="30em"></a>
- <a href="https://mstdn.social/@Doumor"><img alt="My Mastodon" src="https://img.shields.io/badge/-Mastodon-222222?style=flat-square&logo=mastodon" height="30em"></a>
- <a href="https://stepik.org/users/352126081"><img alt="My Stepik" src="https://img.shields.io/badge/-Stepik-222222?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAXRJREFUeNrMl40NhCAMhR2BERyBERzBERzBEdyAERiBERzBERyBETifubso1vIjJjRpchHP79GWAk2TZnJzvfm6ufN8/Y7J5gUTmxsCeufm+58ihhnZBPjPbYlo5MKLiHgKfySChQ/D4OZ5dj/DbzwrJeIWLoQ4gX3D2FMRLHxZFsdZIApBEW/DWREiFY5nbdvu3vd9TmGe+oRJhWPMfxdR0FrvtTBNk5NShprVP/SP4IiAtZZMjTHm8v7B91QoapCqdgqOWYeMWR1gXzcW6qO58ECRgh2efQocuUdK/PQxUbg+9A2VHgM/zhKCj4YayRZwnH0MHA7R2QKoFHRd58ZxjIJTK4hLQVQRxhbX3fLlilBTykKtNwUeWoYydedDPv32m9K4/EbUcOc95F4ptYtBV0MdUG04A26iNqM7RwRQ6ZlwSx1ao49goSKNgMvsc+Cb8CgR3OooAa/iUFrFsbyKi0kVV7MqLqd+NBRzPVeps/4IMAAvpp9zYl8OkgAAAABJRU5ErkJggg==" height="30em">
+ <a href="https://linkedin.com/"><img alt="My LinkedIn" src="https://img.shields.io/badge/-LinkedIn-222288?style=flat-square&logo=linkedin" height="30em"></a>
+ <a href="https://vk.com/doumor"><img alt="My VK" src="https://img.shields.io/badge/-VK-222288?style=flat-square&logo=vk" height="30em"></a>
+ <a href="https://facebook.com/ddoumor"><img alt="My Facebook" src="https://img.shields.io/badge/-Facebook-222288?style=flat-square&logo=facebook" height="30em"></a>
+ <a href="https://instagram.com/doumorr"><img alt="My Instagram" src="https://img.shields.io/badge/-Instagram-222288?style=flat-square&logo=instagram" height="30em"></a>
+ <a href="https://twitter.com/?"><img alt="My Twitter" src="https://img.shields.io/badge/-Twitter-222288?style=flat-square&logo=twitter" height="30em"></a>
+ <a href="https://discord.com"><img alt="My Discord" src="https://img.shields.io/badge/-Discord-222288?style=flat-square&logo=discord" height="30em"></a>
+ <a href="https://mstdn.social/@Doumor"><img alt="My Mastodon" src="https://img.shields.io/badge/-Mastodon-222288?style=flat-square&logo=mastodon" height="30em"></a>
+ <a href="https://stepik.org/users/352126081"><img alt="My Stepik" src="https://img.shields.io/badge/-Stepik-222288?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAXRJREFUeNrMl40NhCAMhR2BERyBERzBERzBEdyAERiBERzBERyBETifubso1vIjJjRpchHP79GWAk2TZnJzvfm6ufN8/Y7J5gUTmxsCeufm+58ihhnZBPjPbYlo5MKLiHgKfySChQ/D4OZ5dj/DbzwrJeIWLoQ4gX3D2FMRLHxZFsdZIApBEW/DWREiFY5nbdvu3vd9TmGe+oRJhWPMfxdR0FrvtTBNk5NShprVP/SP4IiAtZZMjTHm8v7B91QoapCqdgqOWYeMWR1gXzcW6qO58ECRgh2efQocuUdK/PQxUbg+9A2VHgM/zhKCj4YayRZwnH0MHA7R2QKoFHRd58ZxjIJTK4hLQVQRxhbX3fLlilBTykKtNwUeWoYydedDPv32m9K4/EbUcOc95F4ptYtBV0MdUG04A26iNqM7RwRQ6ZlwSx1ao49goSKNgMvsc+Cb8CgR3OooAa/iUFrFsbyKi0kVV7MqLqd+NBRzPVeps/4IMAAvpp9zYl8OkgAAAABJRU5ErkJggg==" height="30em">
 </p>
 
 ## Git
 <p align="center">
- <a href="https://github.com/Doumor"><img alt="My GitHub" src="https://img.shields.io/badge/-GitHub-222222?style=flat-square&logo=github" height="30em"></a>
- <a href="https://"><img alt="My GitLab" src="https://img.shields.io/badge/-GitLab-222222?style=flat-square&logo=gitlab" height="30em"></a>
- <a href="https://"><img alt="My Bitbucket" src="https://img.shields.io/badge/-Bitbucket-222222?style=flat-square&logo=bitbucket" height="30em"></a>
+ <a href="https://github.com/Doumor"><img alt="My GitHub" src="https://img.shields.io/badge/-GitHub-222288?style=flat-square&logo=github" height="30em"></a>
+ <a href="https://"><img alt="My GitLab" src="https://img.shields.io/badge/-GitLab-222288?style=flat-square&logo=gitlab" height="30em"></a>
+ <a href="https://"><img alt="My Bitbucket" src="https://img.shields.io/badge/-Bitbucket-222288?style=flat-square&logo=bitbucket" height="30em"></a>
 </p>
 
 <p align="center">
@@ -232,8 +260,8 @@
 
 ## Email
 <p align="center">
- <a href="mailto:DanilkinDA7@obr.mos.ru"><img alt="My Outlook" src="https://img.shields.io/badge/-Outlook-222222?style=flat-square&logo=microsoft-outlook" height="30em"></a>
- <a href="mailto:"><img alt="My ProtonMaill" src="https://img.shields.io/badge/-ProtonMail-222222?style=flat-square&logo=protonmail" height="30em"></a>
+ <a href="mailto:DanilkinDA7@obr.mos.ru"><img alt="My Outlook" src="https://img.shields.io/badge/-Outlook-222288?style=flat-square&logo=microsoft-outlook" height="30em"></a>
+ <a href="mailto:"><img alt="My ProtonMaill" src="https://img.shields.io/badge/-ProtonMail-222288?style=flat-square&logo=protonmail" height="30em"></a>
 </p>
 
 ## Working system
