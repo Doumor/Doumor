@@ -2,7 +2,7 @@
 
 [Back](../README.md)
 
-## Certificates related to my work.
+## Certificates related to my work
 
 |Certificate|Institution and/or teacher|Image|PDF|
 |---|---|---|---|
