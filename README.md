@@ -41,7 +41,7 @@
 ## Technologies
 ### Description
 <p align="center">
- *I know how to work with all of them and have worked/are working with them, unless told otherwise.*
+ <i>I know how to work with all of them and have worked/are working with them, unless told otherwise.</i>
 </p>
 
 <p align="center">
