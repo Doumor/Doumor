@@ -27,6 +27,7 @@
 
 |Certificate|Institution and/or teacher|Image|PDF|
 |---|---|---|---|
+|[Подготовка к ЕГЭ по русскому языку](https://stepik.org/cert/968613)|[Ляйсан Хутова](https://stepik.org/users/26533986)|![Подготовка к ЕГЭ по русскому языку](https://stepik.org/certificate/a78f31b1b80cdd27687b04a64c20f47f2a77c0fb.png)|[PDF](https://stepik.org/certificate/a78f31b1b80cdd27687b04a64c20f47f2a77c0fb.pdf)|
 |[Art of soft skills: гибкие навыки для жизни и учебы](https://stepik.org/cert/966910)|[Русская Школа Программирования](https://stepik.org/org/russian_codeschool)|![Art of soft skills: гибкие навыки для жизни и учебы](https://stepik.org/certificate/84d4aaefb6213153ea53fdfbe12804a8151edbb3.png)|[PDF](https://stepik.org/certificate/84d4aaefb6213153ea53fdfbe12804a8151edbb3.pdf)|
 
 ### Staff training, tutoring
