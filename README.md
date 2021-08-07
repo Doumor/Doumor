@@ -45,7 +45,7 @@
 <p align="center">
  <img alt="Thing I love" src="https://img.shields.io/badge/-Thing I love-225522?style=flat-square" height="30em">
  <img alt="Common things" src="https://img.shields.io/badge/-Common things-222222?style=flat-square" height="30em">
- <img alt="Thing I don't like" src="https://img.shields.io/badge/-Thing I don't like-662222?style=flat-square" height="30em">
+<!--  <img alt="Thing I don't like" src="https://img.shields.io/badge/-Thing I don't like-662222?style=flat-square" height="30em"> -->
 </p>
 
 <p align="center">
@@ -69,8 +69,8 @@
  <a href="https://google.ru/chrome/"><img alt="Common browser" src="https://img.shields.io/badge/-Chrome/Chromium-222222?style=flat-square&logo=google-chrome" height="30em"></a>
  <a href="https://brave.com/"><img alt="Best chromium fork" src="https://img.shields.io/badge/-Brave-225522?style=flat-square&logo=brave" height="30em"></a>
  <a href="https://opera.com"><img alt="Just another chromium fork" src="https://img.shields.io/badge/-Opera-222222?style=flat-square&logo=opera" height="30em"></a>
- <a href="https://getyabrowser.com"><img alt="Full of crap browser" src="https://img.shields.io/badge/-Yandex-662222?style=flat-square&logo=yandex" height="30em"></a>
- <a href="https://browser.ru/"><img alt="Browser mail.ru" src="https://img.shields.io/badge/-Atom-662222?style=flat-square&logo=mail.ru" height="30em"></a>
+<!--  <a href="https://getyabrowser.com"><img alt="Full of crap browser" src="https://img.shields.io/badge/-Yandex-662222?style=flat-square&logo=yandex" height="30em"></a>
+ <a href="https://browser.ru/"><img alt="Browser mail.ru" src="https://img.shields.io/badge/-Atom-662222?style=flat-square&logo=mail.ru" height="30em"></a> -->
 </p>
 
 ### In production
@@ -101,8 +101,8 @@
  <a href="https://mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-225522?style=flat-square&logo=mongodb" height="30em"></a>
  <a href="https://aerospike.com/"><img alt="Aerospike" src="https://img.shields.io/badge/-Aerospike-4444AA?style=flat-square&logo=aerospike" height="30em"></a>
  <a href="https://redis.io/"><img alt="Redis" src="https://img.shields.io/badge/-Redis-4444AA?style=flat-square&logo=redis" height="30em"></a>
- <a href="https://mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-662222?style=flat-square&logo=mysql" height="30em"></a>
- <a href="https://mariadb.org/"><img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-662222?style=flat-square&logo=mariadb" height="30em"></a>
+<!--  <a href="https://mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-662222?style=flat-square&logo=mysql" height="30em"></a>
+ <a href="https://mariadb.org/"><img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-662222?style=flat-square&logo=mariadb" height="30em"></a> -->
 </p>
 
 ### Other
@@ -211,7 +211,7 @@
  <a href="https://scala-lang.org/"><img alt="Scala" src="https://img.shields.io/badge/-Scala-225522?style=flat-square&logo=scala" height="30em"></a>
 </p>
 
-## A list of things I don't know and don't want to learn
+<!-- ## A list of things I don't know and don't want to learn
 <p align="left">
  <div>
   <a href="https://reactjs.org/"><img alt="React and React Native" src="https://img.shields.io/badge/-React and React Native-882222?style=flat-square&logo=react" height="30em"></a>
@@ -229,7 +229,7 @@
    <a href="https://jquery.com/"><img alt="JQuery" src="https://img.shields.io/badge/-JQuery-882222?style=flat-square&logo=jquery" height="30em"></a>
   <p>Because it's an extra layer.</p>
  </div>
-</p>
+</p> -->
 
 
 ## Social Networks
