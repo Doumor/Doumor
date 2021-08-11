@@ -120,7 +120,7 @@
  <a href="https://gnu.org/software/bash/"><img alt="Bash/Zsh"src="https://img.shields.io/badge/-Bash-222222?style=flat-square&logo=gnu-bash" height="30em"></a>
  <a href="https://rust-lang.org/"><img alt="Rust" src="https://img.shields.io/badge/-Rust-225522?style=flat-square&logo=rust" height="30em"></a>
  <a href="https://python.org/"><img alt="Python" src="https://img.shields.io/badge/-Python-222222?style=flat-square&logo=python" height="30em"></a>
- <a href="https://kotlinlang.org/"><img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-225522?style=flat-square&logo=kotlin" height="30em"></a>
+<!--  <a href="https://kotlinlang.org/"><img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-225522?style=flat-square&logo=kotlin" height="30em"></a> -->
  <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/-PHP-222222?style=flat-square&logo=php" height="30em"></a>
  <a href="https://daringfireball.net/projects/markdown/"><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-225522?style=flat-square&logo=markdown" height="30em"></a>
  <a href="https://json.org"><img alt="JSON" src="https://img.shields.io/badge/-JSON-225522?style=flat-square&logo=json" height="30em"></a>
