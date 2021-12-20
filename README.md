@@ -263,28 +263,28 @@
  <a href="mailto:"><img alt="My ProtonMaill" src="https://img.shields.io/badge/-ProtonMail-222288?style=flat-square&logo=protonmail" height="30em"></a>
 </p>
 
-## Working system
+## Workstation
 
 ```
-                   00                    Dpc@Doumor                                         
-                   11                    ------------                                       
-                  ====                   OS: Manjaro Linux x86_64 + BlackArch repo          
-                  .//                    Kernel: last or stable                             
-                 `o//:                   Uptime: 8-14 hours per day                         
-                `+o//o:                  Packages: 2000+ pacman packages                    
-               `+oo//oo:                 Shell: zsh                                         
-               -+oo//oo+:                Resolution: 1920x1080                              
-             `/:-:+//ooo+:               DE: Plasma 5                                       
-            `/+++++//+++++:              WM: KWin                                           
-           `/++++++//++++++:             WM Theme: Gently-Blur                              
-          `/+++oooo//ooooooo/`           Theme: Gently [Plasma], Breeze-Gently [GTK2/3]     
-         ./ooosssso//osssssso+`          Icons: breeze-dark [Plasma], breeze-dark [GTK2/3]  
-        .oossssso-`//`/ossssss+`         Terminal: cool-retro-term or konsole or yakuake    
-       -osssssso.  //  :ssssssso.        CPU: AMD Ryzen 3 2200G (4) @ 3.500GHz              
-      :osssssss/   //   osssso+++.       GPU: NVIDIA GeForce GTX 1060 6GB                   
-     /ossssssss/   //   +ssssooo/-       Memory: 8gb                                        
-   `/ossssso+/:-   //   -:/+osssso+-     Disk: 1011G / 2,6T (39%)                           
-  `+sso+:-`        //       `.-/+oso:                                                       
- `++:.             //            `-/+/                                                      
- .`                /                `/                                                       
+                   00                    danya@omen-laptop                                     
+                   11                    ------------                                          
+                  ====                   OS: Manjaro Linux + BlackArch repo                    
+                  .//                    Kernel: last or stable                                
+                 `o//:                   Uptime: 24 hours per day                              
+                `+o//o:                  Packages: 2000+ pacman packages                       
+               `+oo//oo:                 Shell: zsh                                            
+               -+oo//oo+:                Resolution: 1920x1080                                 
+             `/:-:+//ooo+:               DE: Plasma 5                                          
+            `/+++++//+++++:              WM: KWin                                              
+           `/++++++//++++++:             WM Theme: Gently-Blur                                 
+          `/+++oooo//ooooooo/`           Theme: Gently [Plasma], Breeze-Gently [GTK2/3]        
+         ./ooosssso//osssssso+`          Icons: breeze-dark [Plasma], breeze-dark [GTK2/3]     
+        .oossssso-`//`/ossssss+`         Terminal: cool-retro-term or konsole or yakuake       
+       -osssssso.  //  :ssssssso.        CPU: AMD Ryzen 5 4600H with Radeon Graphics @ 12x 3GHz
+      :osssssss/   //   osssso+++.       GPU: NVIDIA GeForce GTX 1650 Ti                       
+     /ossssssss/   //   +ssssooo/-       Memory: 8gb                                           
+   `/ossssso+/:-   //   -:/+osssso+-     Disk: 1211G / 3,1T (38%)                              
+  `+sso+:-`        //       `.-/+oso:                                                          
+ `++:.             //            `-/+/                                                         
+ .`                /                `/                                                         
 ```
