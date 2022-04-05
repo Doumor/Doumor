@@ -18,7 +18,7 @@
  <i>And others...</i>
 </p>
 
-### I have 8 [certificates](Edu/Microsoft.md), 20+ [badges and trophies](Edu/Microsoft-extra.md) from Microsoft
+### I have 8 [certificates](Edu/Microsoft.md) from Microsoft
 
 ### I have 1 [certificate](Edu/Amazon.md) from Amazon
 
