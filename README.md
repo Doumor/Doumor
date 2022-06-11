@@ -117,6 +117,8 @@
 
 ## Languages
 <p align="center">
+  <a href="https://gcc.gnu.org/"><img alt="C" src="https://img.shields.io/badge/-C-225522?style=flat-square&logo=c" height="30em"></a>
+  <a href="https://gcc.gnu.org/"><img alt="C++" src="https://img.shields.io/badge/-C++-225522?style=flat-square&logo=cplusplus" height="30em"></a>
  <a href="https://javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-225522?style=flat-square&logo=javascript" height="30em"></a>
  <a href="https://typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-222222?style=flat-square&logo=typescript" height="30em"></a>
  <a href="https://gnu.org/software/bash/"><img alt="Bash/Zsh"src="https://img.shields.io/badge/-Bash-222222?style=flat-square&logo=gnu-bash" height="30em"></a>
