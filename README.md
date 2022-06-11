@@ -22,6 +22,8 @@
 
 ### I have 1 [certificate](Edu/Amazon.md) from Amazon
 
+### I have 2 [certificates](Edu/1C.md) from 1C
+
 <!---
 ### I have 1 [certificate](Edu/HP.md) from HP
 --->
@@ -118,7 +120,7 @@
  <a href="https://javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-225522?style=flat-square&logo=javascript" height="30em"></a>
  <a href="https://typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-222222?style=flat-square&logo=typescript" height="30em"></a>
  <a href="https://gnu.org/software/bash/"><img alt="Bash/Zsh"src="https://img.shields.io/badge/-Bash-222222?style=flat-square&logo=gnu-bash" height="30em"></a>
- <a href="https://rust-lang.org/"><img alt="Rust" src="https://img.shields.io/badge/-Rust-225522?style=flat-square&logo=rust" height="30em"></a>
+ <a href="https://rust-lang.org/"><img alt="Rust" src="https://img.shields.io/badge/-Rust-4444AA?style=flat-square&logo=rust" height="30em"></a>
  <a href="https://python.org/"><img alt="Python" src="https://img.shields.io/badge/-Python-222222?style=flat-square&logo=python" height="30em"></a>
 <!--  <a href="https://kotlinlang.org/"><img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-225522?style=flat-square&logo=kotlin" height="30em"></a> -->
  <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/-PHP-222222?style=flat-square&logo=php" height="30em"></a>
@@ -257,10 +259,9 @@
  <img alt="My GitHub Status" src="https://github-readme-stats.vercel.app/api/top-langs?username=doumor&show_icons=true&layout=compact&show_icons=true&theme=algolia">
 </p>
 
-## Email
+## Email (Click on it)
 <p align="center">
- <a href="mailto:DanilkinDA7@obr.mos.ru"><img alt="My Outlook" src="https://img.shields.io/badge/-Outlook-222288?style=flat-square&logo=microsoft-outlook" height="30em"></a>
- <a href="mailto:"><img alt="My ProtonMaill" src="https://img.shields.io/badge/-ProtonMail-222288?style=flat-square&logo=protonmail" height="30em"></a>
+ <a href="mailto:doumor@vk.com"><img alt="My VK E-Mail" src="https://img.shields.io/badge/-Outlook-222288?style=flat-square&logo=vk" height="30em"></a>
 </p>
 
 ## Workstation
