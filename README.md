@@ -261,7 +261,7 @@
 
 ## Email (Click on it)
 <p align="center">
- <a href="mailto:doumor@vk.com"><img alt="My VK E-Mail" src="https://img.shields.io/badge/-Outlook-222288?style=flat-square&logo=vk" height="30em"></a>
+ <a href="mailto:doumor@vk.com"><img alt="My VK email" src="https://img.shields.io/badge/-My VK email-222288?style=flat-square&logo=vk" height="30em"></a>
 </p>
 
 ## Workstation
