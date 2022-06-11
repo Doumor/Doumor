@@ -2,9 +2,9 @@
 ## My education<br>
 
 
-<!---
-### I have 1 [certificate](Edu/Coursera.md) on Coursera from ...
---->
+
+### I have 2 [certificates](Edu/Coursera.md) on Coursera from Google, University of California, University of Michigan, Linux Foundation, IBM
+
 
 ### I have 14 [certificates](Edu/Stepik.md) on Stepik from:<br><br>
 <p align="center">
