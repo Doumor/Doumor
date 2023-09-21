@@ -238,12 +238,10 @@
 
 ## Social Networks
 <p align="center">
- <a href="https://linkedin.com/"><img alt="My LinkedIn" src="https://img.shields.io/badge/-LinkedIn-222288?style=flat-square&logo=linkedin" height="30em"></a>
+ <a href="https://linkedin.com/"><img alt="My LinkedIn (there is no)" src="https://img.shields.io/badge/-LinkedIn-222288?style=flat-square&logo=linkedin" height="30em"></a>
  <a href="https://vk.com/doumor"><img alt="My VK" src="https://img.shields.io/badge/-VK-222288?style=flat-square&logo=vk" height="30em"></a>
- <a href="https://facebook.com/ddoumor"><img alt="My Facebook" src="https://img.shields.io/badge/-Facebook-222288?style=flat-square&logo=facebook" height="30em"></a>
- <a href="https://instagram.com/doumorr"><img alt="My Instagram" src="https://img.shields.io/badge/-Instagram-222288?style=flat-square&logo=instagram" height="30em"></a>
- <a href="https://twitter.com/?"><img alt="My Twitter" src="https://img.shields.io/badge/-Twitter-222288?style=flat-square&logo=twitter" height="30em"></a>
- <a href="https://discord.com"><img alt="My Discord" src="https://img.shields.io/badge/-Discord-222288?style=flat-square&logo=discord" height="30em"></a>
+ <a href="https://facebook.com/ddoumor"><img alt="My Facebook (there is no)" src="https://img.shields.io/badge/-Facebook-222288?style=flat-square&logo=facebook" height="30em"></a>
+ <a href="https://instagram.com/doumorr"><img alt="My Instagram (there is no)" src="https://img.shields.io/badge/-Instagram-222288?style=flat-square&logo=instagram" height="30em"></a>
  <a href="https://mstdn.social/@Doumor"><img alt="My Mastodon" src="https://img.shields.io/badge/-Mastodon-222288?style=flat-square&logo=mastodon" height="30em"></a>
  <a href="https://stepik.org/users/352126081"><img alt="My Stepik" src="https://img.shields.io/badge/-Stepik-222288?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAXRJREFUeNrMl40NhCAMhR2BERyBERzBERzBEdyAERiBERzBERyBETifubso1vIjJjRpchHP79GWAk2TZnJzvfm6ufN8/Y7J5gUTmxsCeufm+58ihhnZBPjPbYlo5MKLiHgKfySChQ/D4OZ5dj/DbzwrJeIWLoQ4gX3D2FMRLHxZFsdZIApBEW/DWREiFY5nbdvu3vd9TmGe+oRJhWPMfxdR0FrvtTBNk5NShprVP/SP4IiAtZZMjTHm8v7B91QoapCqdgqOWYeMWR1gXzcW6qO58ECRgh2efQocuUdK/PQxUbg+9A2VHgM/zhKCj4YayRZwnH0MHA7R2QKoFHRd58ZxjIJTK4hLQVQRxhbX3fLlilBTykKtNwUeWoYydedDPv32m9K4/EbUcOc95F4ptYtBV0MdUG04A26iNqM7RwRQ6ZlwSx1ao49goSKNgMvsc+Cb8CgR3OooAa/iUFrFsbyKi0kVV7MqLqd+NBRzPVeps/4IMAAvpp9zYl8OkgAAAABJRU5ErkJggg==" height="30em">
 </p>
